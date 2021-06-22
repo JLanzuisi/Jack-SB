@@ -4,12 +4,19 @@ This repo holds the Markdown, TeX, and any other, files required
 to typeset the book with LaTeX or pandoc, for a
 pdf or an epub, respectively.
 
+## Getting the book
+
+The final version of the pdf and epub can be
+found in the releases.
+
 ## Structure
 
 The chapters are in markdown files.
 
 The `Main.tex` file is the main file
 for the pdf and the one targeted by `latexmk`.
+The `out` directory contains the output of running LaTeX,
+including the pdf file.
 
 The `preamble.tex` file holds the TeX preamble:
 packages, classes, custom command, etc.
@@ -38,6 +45,9 @@ To make the pdf, run `make` or `make pdf`.
 
 ## License
 
+Usage or distribution of any book file must have prior permission.
+*Any used of the files without permission is forbidden*.
+
 The typefaces are under a creative commons license:
 
 ```{none}
@@ -46,6 +56,3 @@ http://pampatype.com.
 
 This Font Software is licensed under the Creative Commons BY-ND 4.0. This full license is available at: https://creativecommons.org/licenses/by-nd/4.0/
 ```
-
-Usage or distribution of any book file must have prior permission.
-*Any used of the files without permission is forbidden*.
