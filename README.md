@@ -46,3 +46,6 @@ http://pampatype.com.
 
 This Font Software is licensed under the Creative Commons BY-ND 4.0. This full license is available at: https://creativecommons.org/licenses/by-nd/4.0/
 ```
+
+Usage or distribution of any book file must have prior permission.
+*Any used of the files without permission is forbidden*.
