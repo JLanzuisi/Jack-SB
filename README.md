@@ -22,6 +22,9 @@ The `preamble.tex` file holds the TeX preamble:
 packages, classes, custom command, etc.
 The book uses the KOMA-Script book class.
 
+The `docx` file is the draft of the book that the
+author made. It is where the markdown files are taken from.
+
 ## Building
 
 ### Epub
