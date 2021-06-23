@@ -1,54 +1,140 @@
-# Book One
+## Alexander Morgan
 
-## Chapter 1: Joanna Turnus
+"Morgan!" Phil yelled. "Help the welder watch the sparks so the roof
+don't go up in flames, you goddamned son-of-a-bitch."
 
-My parents were happiest when my mother was pregnant with me, at least
-that's what my grandfather had said---except for one minor and
-short-lived argument early during her pregnancy; the major ones would
-come later: My mother wanted to name me Joseph Michael Turnus after my
-two deceased brothers, but my father adamantly objected---thank God. And
-I'm not giving anything away to say that they were never so happy again.
+"After I finish," I said, centering a wickedly large concrete shard into
+my wheelbarrow; careful so it wouldn't tip.
 
-In anticipation of my birth (twenty-nine years ago this month) my
-parents had painted my bedroom blue and gold with a white trim, and
-stenciled Red Sox and Patriots' logos on the walls. They stocked my room
-with soldiers, footballs, baseballs, a horse rocker. On the walls, an
-autographed portrait of Carlton Fisk, photos of Knute Rockne, Ara
-Parseghian, and Joe Montana; an aerial view of Fenway Park.
+"Now!"
 
-It was a fun time for my parents, sharing their dreams for me. My father
-saw me in the family construction business, after college of course;
-while my mother insisted that her young husky (her nickname for me
-during her pregnancy) would play football, eventually getting a
-scholarship to Notre Dame, following her father's footsteps. While my
-father saw me as a tight end, maybe a defensive end, my mother saw me as
-a quarterback, just like her father. In their dreams there was plenty of
-room for compromise.
+Sure as hell, Phil had forgotten that Zella Asphalt was about to pave
+the bank's newly expanded parking lot, and that we---make that I---had
+to pick up all the accumulated bricks, bottles, cans, nails, spikes,
+sawed-off planks, concrete shards, pieces of strapping, and other crap;
+assuming, of course, that pick-up duty was ever on his schedule.
 
-Sounds ideal, right? Off to a great start while still in my mother's
-womb?
+"Send Paul," I said, nudging my wheelbarrow forward to the left,
+compensating its slight tilt to the right. "Zella will be pissed as
+hell---\"
 
-Except that I was born a girl.
+"If you ain't on the roof in two minutes, *you* can start working for
+Zella."
 
-At the hospital, my parents had either forgotten, didn't want to, or
-were too upset to give me a middle name, but my grandfather insisted. He
-said that not having one would complicate my life (as if my complicated
-life could've been any more complicated). Adamant, he expected an
-argument with my father---after all, they had argued about everything
-else---but surprisingly my father quietly deferred, no doubt distracted
-by my mother's grief.
+I threw my hands up in disgust and headed toward the backside of the
+bank.
 
-I was named Joanna Meredith Turnus.  
+"Are you deaf?" Phil yelled, waving his arms up and down. "I just asked
+you to grab a goddamned extinguisher."
 
-Sometimes I wonder if I initially was a boy in my mother's womb, then
-somehow became a girl. Sometimes I wonder what it would've been like to
-be happy in my gender, never imagining anything but. Sometimes I wonder
-if my parents had done everything right---even if they had treated me
-like a girl from the beginning and were happy for me---if I still would
-have been screwed up. I mean, look at my best friend Rachel: from a
-happy and 'normal' family, but she always knew that something was wrong:
-that she was a woman trapped in a man's body.
+If I insisted that he had said no such thing, he would've ranted and
+raved even more, but I had better things to do than to bear witness, so
+I slipped away and did as asked.
 
-If my mother had known that she was pregnant with a girl, she would have
-aborted me. I know that. I overheard her tell my aunt when I was eight
-years old, before I even knew what the word meant.
+To be honest I don't know where they got this bastard. Zachary should
+have started him on an easy one-story addition rather than this bank
+which was challenging even for a semi-competent supervisor: Originally
+two stories, the bank was expanding 200 hundred feet in back and five
+floors up in the middle of a busy city block, while remaining open for
+business,
+
+The extinguisher wasn't where it was supposed to be---but when is shit
+ever rightfully returned? I snatched a yellowed invoice from the desktop
+and wrote in bold, black letters:    
+
+*Please return the extinguisher to where it friggin' belongs!*
+
+I double-underlined the sentence, highlighted it, then hooked the
+yellowed invoice on the wall above the desk, exactly where the
+extinguisher should have been.
+
+At the back of the trailer, I plowed through square shovels, round
+shovels, picks, bars, rakes, water hoses, boots, water pumps,
+stepladders, sledgehammers, chipping hammers, buckets, paint cans,
+cement bags, asphalt shingles, compressor hoses---everything was heaped
+in an organized mess. Finally, I found an extinguisher wedged between a
+compactor and a flat-tired, one-armed wheelbarrow.
+
+With a half-broken shingle, I scraped off the dirt and grime caked on
+the extinguisher from years of non-use. Then I monkeyed up the long
+aluminum ladder leaning against the bank's backside, shouldering the
+extinguisher like a Christmas tree. On the roof, I tapped the welder's
+shoulder, letting him know that his all-important spark-watcher was
+ready for duty.
+
+He tipped up his Darth Vader mask just above his nose, bracing it with
+his index finger, barking instructions like I was an idiot, like I
+didn't know that the sun-baked insulation was dry as a bastard.
+
+The welder slipped off his mask, rubbing its Plexiglas eye cover. "Give
+me a minute."
+
+I meandered to the roof's front edge. A delicious aroma of baking bread
+knitted the stale smells of gasoline, lumber, fresh dirt, diesel, and
+sawdust.
+
+"Don't disappear, I'll be---"
+
+The welder was snuffed by the whining and screeching of screw
+guns---metal against metal---whirring from the newly-built partitions
+below. A constant, day-long, seductively irritating rhythm: One gun. A
+second. A third. A brief silence. Then the first, second, third.     
+
+Directly below the roof's edge, Nick, Abe, and Walter were framing a
+wooden form for the new sidewalk on what used to be a broad expanse of
+grass studded with tall oak trees: a peaceful buffer between the bank
+and the busy street traffic. But the bank president had ordered the
+trees cut down, claiming that they obstructed the view. Really? A
+traffic-clogged rotary fed by three, traffic-clogged streets, and that's
+a friggin' view?
+
+The welder signaled that he was ready; ready to strengthen the steel
+beams across the old roof that would soon support the new floors. The
+steel skeleton of the upper addition was already in place.
+
+I kicked a few pebbles over the roof's edge, then scooted back.    
+
+"Cut the shit!" I heard Nick yell above the whining and screeching.    
+
+At the roof's far end a crane operator was unloading steel beams. A huge
+American flag draped motionless from his cab. As fast as he unloaded,
+guys aligned and welded, showering sparks in every direction. I gave the
+crane operator the finger, like I did every morning, and he ignored me,
+like he did every morning. Sure, he makes triple my salary, but does
+that entitle him to be a prick?
+
+Watching sparks ain't as easy as it seems. Yeah, you wait for nothing to
+happen, but no matter how hard you try, you can't help glance at the
+welding arc. It won't blind like you an friggin' eclipse, but even a
+casual glance hurts your eyes, and then you suffer like a bastard that
+night.  
+
+Below us was an old computer billing room. Everything flammable had long
+been removed; polyethylene covered the still-remaining metal filing
+cabinets. Guess who was chomping on an unlit cigar, looking up at me,
+armed with a water hose? Gary. I'm sure he had reserved this job days
+ago before anyone else even knew about it. Everyone says that he used to
+be a good laborer but that must have been years before his triple chin
+and large, protruding stomach.  
+
+Why have two guys standing around waiting for nothing to happen? I
+clicked on my cell phone to call Phil and was surprised as hell to find
+three text messages from Lisa, and it wasn't even eight o'clock.
+
+I stepped back from the welder, away from view, reading the first
+message, "Derek's working overtime tonight. I'm making a nice dinner,
+why don't you stop by?" Then the second: "He won't be home until
+nine!!!" And the third: "Call Me!"  
+
+Maybe, just maybe, if she wasn't married to my brother. "Call you
+later," I texted. "I'm working." My message didn't send. I tried
+resending. Finally, after three tries.  
+
+Suddenly the insulation began crackling and sizzling. Shit! The welder
+whipped off his mask, stomping and swearing like a bastard. I sprayed
+the extinguisher, but nothing came out. Gary threw us the hose and the
+welder extinguished the flames, and not a second too soon.  
+
+"What the hell were you doing?" demanded the welder. "Why'd you bring an
+empty extinguisher? Get another one that works! And no more fuckin'
+screwups."

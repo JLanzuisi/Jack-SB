@@ -1,6 +1,6 @@
 # Introduction
 
-## Chapter 0: Joanna Turnus
+## Joanna Turnus
 
 I could have confessed to Alexander in the North End, Faneuil Hall, the
 Seaport District, or even Carson Beach, despite the cool, chilly night;
@@ -98,10 +98,10 @@ At the sink I let the water run cold, dabbing my forehead with a cool
 paper towel, surprised at how pretty and feminine I looked, surprised at
 how confident I appeared.
 
-> "This is the men's room," interrupted a stern masculine voice.
->
-> I lightly screamed, turning to find a young man, kind of cute, his
-> baritone voice not
+ "This is the men's room," interrupted a stern masculine voice.
+
+ I lightly screamed, turning to find a young man, kind of cute, his
+ baritone voice not
 
 matching his youthful appearance, silently inspecting every inch of my
 body, silently inquiring why I was in the men's room.
