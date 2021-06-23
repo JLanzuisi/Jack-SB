@@ -1,7 +1,7 @@
 LATEXCMD= latexmk
 LATEXFLAGS= -lualatex -output-directory=out
 PANDOC= pandoc
-PDFPANDOCFLAGS= -r markdown-auto_identifiers
+PDFPANDOCFLAGS= -r markdown-auto_identifiers --top-level-division=part
 MDSRC= chapters/ch(0).md chapters/ch(1).md chapters/ch(2).md chapters/ch(3).md chapters/ch(4).md \
 	chapters/ch(5).md chapters/ch(6).md chapters/ch(7).md chapters/ch(8).md chapters/ch(9).md \
 	chapters/ch(10).md chapters/ch(11).md chapters/ch(12).md chapters/ch(13).md chapters/ch(14).md \
@@ -13,7 +13,7 @@ MDSRC= chapters/ch(0).md chapters/ch(1).md chapters/ch(2).md chapters/ch(3).md c
 pdf: Main.tex body.tex preamble.tex
 	$(LATEXCMD) $(LATEXFLAGS) Main.tex
 
-body.tex:
+body.tex: $(MDSRC)
 	$(PANDOC) $(PDFPANDOCFLAGS) $(MDSRC) -o body.tex
 
 epub:
