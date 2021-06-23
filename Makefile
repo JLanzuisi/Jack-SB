@@ -1,20 +1,20 @@
 LATEXCMD= latexmk
-LATEXFLAGS= -lualatex
+LATEXFLAGS= -lualatex -output-directory=out
 PANDOC= pandoc
-PANDOCFLAGS= -output-directory=out
-MDSRC= chapters/intro.md \
-	chapters/cap1.md chapters/cap2.md chapters/cap3.md chapters/cap4.md chapters/cap5.md chapters/cap6.md \
-	chapters/cap7.md chapters/cap8.md chapters/cap9.md chapters/cap10.md chapters/cap11.md chapters/cap12.md \
-	chapters/cap13.md chapters/cap14.md chapters/cap15.md chapters/cap16.md chapters/cap17.md chapters/cap18.md \
-	chapters/cap19.md chapters/cap20.md chapters/cap21.md chapters/cap22.md chapters/cap23.md chapters/cap24.md \
-	chapters/cap25.md chapters/cap26.md chapters/cap27.md chapters/cap28.md chapters/cap29.md chapters/cap30.md \
-	chapters/cap31.md chapters/cap32.md
+PDFPANDOCFLAGS= -r markdown-auto_identifiers
+MDSRC= chapters/ch(0).md chapters/ch(1).md chapters/ch(2).md chapters/ch(3).md chapters/ch(4).md \
+	chapters/ch(5).md chapters/ch(6).md chapters/ch(7).md chapters/ch(8).md chapters/ch(9).md \
+	chapters/ch(10).md chapters/ch(11).md chapters/ch(12).md chapters/ch(13).md chapters/ch(14).md \
+	chapters/ch(15).md chapters/ch(16).md chapters/ch(17).md chapters/ch(18).md chapters/ch(19).md \
+	chapters/ch(20).md chapters/ch(21).md chapters/ch(22).md chapters/ch(23).md chapters/ch(24).md \
+	chapters/ch(25).md chapters/ch(26).md chapters/ch(27).md chapters/ch(28).md chapters/ch(29).md \
+	chapters/ch(30).md chapters/ch(31).md
 
 pdf: Main.tex body.tex preamble.tex
 	$(LATEXCMD) $(LATEXFLAGS) Main.tex
 
 body.tex:
-	$(PANDOC) $(MDSRC) -o body.tex
+	$(PANDOC) $(PDFPANDOCFLAGS) $(MDSRC) -o body.tex
 
 epub:
 	$(PANDOC) $(MDSRC) -o main.epub
