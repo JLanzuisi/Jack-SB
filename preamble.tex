@@ -10,17 +10,34 @@
     Numbers={OldStyle,Proportional}
 }
 \setmainfont{Reforma1918-Gris.otf}
-\newfontfamily{\lightfont}{Reforma1918-Blanca.otf}
-
+\newfontfamily{\lightfont}{Reforma1918-BlancaItalica.otf}
 \linespread{1.08}
 
 \frenchspacing
+
+\usepackage{microtype}
+
 \KOMAoptions{
     paper = a5,
     BCOR = 8.25mm,
     twoside = true,
     fontsize = {10},
+    toc = left,
+    chapterprefix = true,
+    headings = small,
+    numbers = noendperiod,
     DIV = calc,
+}
+
+\setkomafont{disposition}{\normalcolor}
+\setkomafont{part}{\fontsize{22}{22}\selectfont}
+
+\renewcommand\chapterlineswithprefixformat[3]{%
+    #2\addfontfeature{LetterSpace=4.0}\MakeUppercase{#3}%
+}
+\renewcommand\partlineswithprefixformat[3]{%
+    \lightfont\itshape%
+    \addfontfeature{LetterSpace=4.0}\MakeUppercase{#3}%
 }
 
 \usepackage{hyperref}
