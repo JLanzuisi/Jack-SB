@@ -1,24 +1,24 @@
- ***Swimming Backwards***
+***Swimming Backwards***
 
- **A Novel**
+**A Novel**
 
- **June 20, 2021**
+**June 20, 2021**
 
- **353 pages; 90290 words**
+**353 pages; 90290 words**
 
- **Final finished**
+**Final finished**
 
- **Jack Reardon**
+**Jack Reardon**
 
- **1126 Willow Green Circle**
+**1126 Willow Green Circle**
 
- **Eau Claire, WI USA**
+**Eau Claire, WI USA**
 
- [**Jackreardon864\@gmail.com**](mailto:Jackreardon864@gmail.com)
+[**Jackreardon864\@gmail.com**](mailto:Jackreardon864@gmail.com)
 
- **Draft: Please do not circulate**
+**Draft: Please do not circulate**
 
- **INTRODUCTION**
+**INTRODUCTION**
 
 **Chapter 1: Joanna Turnus**
 
@@ -118,10 +118,10 @@ At the sink I let the water run cold, dabbing my forehead with a cool
 paper towel, surprised at how pretty and feminine I looked, surprised at
 how confident I appeared.
 
- "This is the men's room," interrupted a stern masculine voice.
+"This is the men's room," interrupted a stern masculine voice.
 
- I lightly screamed, turning to find a young man, kind of cute, his
- baritone voice not
+I lightly screamed, turning to find a young man, kind of cute, his
+baritone voice not
 
 matching his youthful appearance, silently inspecting every inch of my
 body, silently inquiring why I was in the men's room.
@@ -259,7 +259,7 @@ entering the Old Post Inn, exuberant, anxious to celebrate a birthday,
 an anniversary, the birth of a child; her head softly on his shoulder,
 his arm wrapped around her, whispering how beautiful she was.
 
- **BOOK ONE**
+**BOOK ONE**
 
 **Chapter 1: Joanna Turnus**
 
@@ -594,8 +594,8 @@ was still talking to the waitress.
 
 "Disgusting," the boys said.  
 
- I knew my grandfather heard, although he pretended not. His smile
- disappeared, that's
+I knew my grandfather heard, although he pretended not. His smile
+disappeared, that's
 
 how I knew. I wished the brook was deeper and carried to the ocean. I
 imagined swimming backwards, my ears submerged, listening to the water,
@@ -704,7 +704,7 @@ Everyone says Abe is a youthful 59, but if you ask me, he looks exactly
 older. So much for first glances.
 
 Walter handed me a twenty-dollar bill, then said to Abe: "I'm buyin'."
-  
+ 
 
 "You win the lottery or something?" asked Abe.
 
@@ -746,7 +746,7 @@ remember?"
 coffee break."
 
 "Hey, the kid put in a good fifteen minutes of work and needed to rest."
- 
+
 
 Walter fondled a piece of strapping, then, at a forty-five-degree angle,
 nailed it to the plank. "Gary wants a small black coffee, no cream and
@@ -935,14 +935,14 @@ it's almost time for lunch."
 
 "Hot water?" Abe asked Gary.
 
- "With my new diet I'm drinking nothing but tea."
+"With my new diet I'm drinking nothing but tea."
 
- "*New* diet?" asked Walter.
+"*New* diet?" asked Walter.
 
- "It's a new week," I noted.
+"It's a new week," I noted.
 
- "All the tea in goddamned China won't help you lose a goddamned
- ounce," said Abe.
+"All the tea in goddamned China won't help you lose a goddamned
+ounce," said Abe.
 
 Gary, unwrapping his muffin, turned toward me: "I supposed you had both
 sides buttered?"
@@ -1050,8 +1050,8 @@ retractable, pocket-sized cat's paw, especially made for women. Can you
 imagine! I've dated lots of women and I've yet to meet one who knew---or
 even wanted to know---how to use a cat's paw.
 
- Walter blew his nose on a napkin. "So, what you call this friggin'
- invention of yours?"
+Walter blew his nose on a napkin. "So, what you call this friggin'
+invention of yours?"
 
 He inspected the napkin as if searching for lost change, crumpled it,
 and tossed it in the water barrel.
@@ -1061,12 +1061,12 @@ Paul frowned.
 "How can you invent something without first naming it?" I asked. "Anyone
 can *think* of shit to invent. No wonder all your ideas suck."
 
- "How about the all-purpose snapper?" offered Gary.
+"How about the all-purpose snapper?" offered Gary.
 
- Everyone laughed, except Paul, of course.
+Everyone laughed, except Paul, of course.
 
- "How about a video?" I suggested. "Paul busting his skinny ass,
- manually snapping off
+"How about a video?" I suggested. "Paul busting his skinny ass,
+manually snapping off
 
 each rod, taking all day just for one, then Gary snapping, not even
 breaking a sweat."
@@ -1080,23 +1080,23 @@ what it does, so everyone knows what the hell it is."
 
 Lisa texted me, "Hello???"
 
- "It's that time," Walter said, rising from his bucket.
+"It's that time," Walter said, rising from his bucket.
 
- That's how he ends every break, like we're about to march off a cliff
- or something.
+That's how he ends every break, like we're about to march off a cliff
+or something.
 
- "Time for what?" I asked.
+"Time for what?" I asked.
 
- "What'd you think?" Nick flicked his cigarette butt at me.
+"What'd you think?" Nick flicked his cigarette butt at me.
 
- "You can't sit on your ass all mornin'."
+"You can't sit on your ass all mornin'."
 
- "Why don't you ask Zella to join us for afternoon coffee," Nick
- suggested.
+"Why don't you ask Zella to join us for afternoon coffee," Nick
+suggested.
 
- Walter nodded. "Not a bad idea kid."
+Walter nodded. "Not a bad idea kid."
 
- "They can get their own."
+"They can get their own."
 
 Walter took my arm. "Listen kid, you want people rememberin' you as the
 prick who never bought coffee? Asphalt guys remember shit like this:
@@ -1246,28 +1246,28 @@ ladder, when this big bastard demands that I come down immediately."
 "He probably had no idea who you were, that you even worked here," added
 Nick, lighting a cigarette.
 
- "Who'd you piss off now?" asked Gary. "The Carpenters' BA?"
+"Who'd you piss off now?" asked Gary. "The Carpenters' BA?"
 
- "Our guys use more sophisticated tactics," Nick said, exhaling smoke
- in my face. "Like
+"Our guys use more sophisticated tactics," Nick said, exhaling smoke
+in my face. "Like
 
 cutting your ladder in half with a Skil-Saw."
 
- "He was from the mafia," Paul replied, "asking me to work for him."
+"He was from the mafia," Paul replied, "asking me to work for him."
 
- "You?" I asked, joining the laughter. "In the mafia?"
+"You?" I asked, joining the laughter. "In the mafia?"
 
- "They must be really scraping the bottom of the barrel," said Abe.
+"They must be really scraping the bottom of the barrel," said Abe.
 
- "In a year I'd triple my salary," said Paul. "Although I'd have to
- start at the
+"In a year I'd triple my salary," said Paul. "Although I'd have to
+start at the
 
 bottom."
 
- "And end up at the bottom of the harbor," added Abe.
+"And end up at the bottom of the harbor," added Abe.
 
- "At least you won\'t have to worry about no goddamned pension or
- health benefits," Nick
+"At least you won\'t have to worry about no goddamned pension or
+health benefits," Nick
 
 said.
 
@@ -1369,8 +1369,8 @@ at the shop?"
 "I left a message. You'll be back by 2.30. Compact for an hour. That's
 more work than you've done all day."
 
- "Why not rent one instead of paying me to run all over town? Fifteen
- minutes to the
+"Why not rent one instead of paying me to run all over town? Fifteen
+minutes to the
 
 rental center and fifteen minutes back. I'll be back by 1.00."
 
@@ -1490,7 +1490,7 @@ beers, before ordering another Diet Pepsi and the house special.
 "Ask for corn bread," the woman suggested; "it's delicious. They add
 maple syrup and jalapenos making it really sweet and really hot."
 
- "It's addicting," agreed the dude.
+"It's addicting," agreed the dude.
 
 I ordered the cornbread.
 
@@ -1618,10 +1618,10 @@ asked.
 
 I shoved my plate away.
 
- "Hey, ease up," Lily reprimanded Brian, apologetically rolling her
- eyes at me.
+"Hey, ease up," Lily reprimanded Brian, apologetically rolling her
+eyes at me.
 
- "Looks like we will be paying General a visit," Brian said. "Soon."
+"Looks like we will be paying General a visit," Brian said. "Soon."
 
 "Don't mention my name," I said.
 
@@ -1875,8 +1875,8 @@ allow it?*
 "Loafing again?" Phil yelled. "Just once I'd like to see you actually
 working."
 
- *And just once I'd like to see you actually supervising.* "I'm getting
- a prick and shovel
+*And just once I'd like to see you actually supervising.* "I'm getting
+a prick and shovel
 
 from the trailer," I said, grinning at my accidental slip-up.
 
@@ -1955,10 +1955,10 @@ beams are going up too fast?" I asked when finished.
 
 "Them steel beams? You think they're going up too fast?"
 
- "No. Not at all.
+"No. Not at all.
 
- I was too tired to argue, especially with only fifteen minutes left,
- so I said goodbye,
+I was too tired to argue, especially with only fifteen minutes left,
+so I said goodbye,
 
 hurriedly returned to my compactor, then guided it toward my truck,
 hoping to make it by 4.00 but the friggin' compactor has only one
@@ -2343,8 +2343,8 @@ poured a glass for herself. She led me to the table; we sat opposite.
 
 "I'm sorry things aren't going well between you two," I said.
 
- She took a long sip of wine. "We live in two separate worlds. Last
- Sunday we were
+She took a long sip of wine. "We live in two separate worlds. Last
+Sunday we were
 
 driving home---if that's what you call this dump---listening to this
 song on the radio. I was smiling, thinking of someone else---and so was
@@ -2364,10 +2364,10 @@ tips---in Cambridge, not too far from you, near the Coop."
 
 "So why haven't you stopped by?"
 
- "I work nights, six to closing and you work days, 7.30 to four; so
- when could I stop by?"
+"I work nights, six to closing and you work days, 7.30 to four; so
+when could I stop by?"
 
- I glanced at my watch. It was ten minutes to six. "Aren't you late?"
+I glanced at my watch. It was ten minutes to six. "Aren't you late?"
 
 "Tonight's my night off---of all the nights for him not to work late;
 he's been working overtime every night the last two weeks." Lisa reached
@@ -2688,29 +2688,29 @@ felt my eyelashes: yes, but more than I thought?
 
 "What does your father say about this?"
 
- "About mascara?" I shrugged, fidgeting my eyelashes.
+"About mascara?" I shrugged, fidgeting my eyelashes.
 
 Coach laughed. "I mean playing football."
 
- "He doesn't know."
+"He doesn't know."
 
- "You're trying out for the boys' football team and your father doesn't
- know?"
+"You're trying out for the boys' football team and your father doesn't
+know?"
 
- "Neither does my mother. There's a lot they don't know about me."
+"Neither does my mother. There's a lot they don't know about me."
 
- I expected him to say something, but he leaned back in his chair
- staring at me.
+I expected him to say something, but he leaned back in his chair
+staring at me.
 
- "If I make the team, I *will* tell them," I obligingly said.
+"If I make the team, I *will* tell them," I obligingly said.
 
- "You sound pretty sure of yourself. What position do you play?"
+"You sound pretty sure of yourself. What position do you play?"
 
- "Receiver."
+"Receiver."
 
- "Let me see your hands."
+"Let me see your hands."
 
- I showed him my hands, extending my long, strong fingers.
+I showed him my hands, extending my long, strong fingers.
 
 "I've never seen such hands on a girl?"
 
@@ -3151,8 +3151,8 @@ I called her number. No answer. I called again.
 "Alexander Morgan. I work at General Construction. How about dinner
 Saturday night?"
 
- "Hmmm. Brian and I are leaving for Albany Saturday morning, for a
- week.
+"Hmmm. Brian and I are leaving for Albany Saturday morning, for a
+week.
 
 *A week? Together?* *And there's nothing between them?*
 
@@ -3169,25 +3169,25 @@ wouldn't accidentally crack. We worked like bastards, finishing the
 first hole by 9:10, just in time for coffee. At this rate, we'd finish
 well before noon. But something wasn't right: it was too easy.
 
- "Did you notice how weak this shit is?" I asked Paul, resting my arms
- on the upper
+"Did you notice how weak this shit is?" I asked Paul, resting my arms
+on the upper
 
 planks. The ash-like dust was already an eighth-inch deep. "What if the
 whole building's
 
 like this?"
 
- "It ain't."
+"It ain't."
 
- "You've checked? And what about the steel rods?"
+"You've checked? And what about the steel rods?"
 
- "What about them?"
+"What about them?"
 
- "There ain't none; that's the problem: They're supposed to be *in* the
- concrete."
+"There ain't none; that's the problem: They're supposed to be *in* the
+concrete."
 
- Paul lifted the chipping hammer. "I'll finish outlining the second
- hole while you go for
+Paul lifted the chipping hammer. "I'll finish outlining the second
+hole while you go for
 
 coffee."
 
@@ -3303,8 +3303,8 @@ of here on our ass so quickly. *He* made us cut two holes in the vault
 for the air conditioning duct, saying that the architect screwed up."\
 "What?" Walter asked. "The duct's on the plans, clear as day."
 
- "You sure?" I asked.\
- "Of course I'm sure---why wouldn't I be?"
+"You sure?" I asked.\
+"Of course I'm sure---why wouldn't I be?"
 
 "An expensive mistake if you ask me---and something ain't right with the
 concrete. It's cutting too easy. It's supposed to be zero slump, you
@@ -3375,7 +3375,7 @@ kind of like you in grey," she said. "Makes you look distinguished."
 "How'd you know I was here? Even I didn't know I was coming until the
 last minute."
 
- "Paul told me."
+"Paul told me."
 
 *That bastard.*
 
@@ -3420,13 +3420,13 @@ thought you worked nights?"
 "I'm subbing today. It's good to get out of the house. Hmmmm, maybe I
 should sub more often?" she muttered. "So, why so dusty, Alexander?"
 
- I took a sip of my Switchblade, then another. "Paul and I were
- jackhammering in the
+I took a sip of my Switchblade, then another. "Paul and I were
+jackhammering in the
 
 vault."
 
- "How much money did you abscond with, Alexander Ocean?" she asked,
- laughing.
+"How much money did you abscond with, Alexander Ocean?" she asked,
+laughing.
 
 "Yeah, right. I wouldn't know what to do with it all."
 
@@ -3570,16 +3570,16 @@ miscarriage. "Absolutely not."
 
 "But everyone on the squad has pierced ears!"
 
- "I don't care! You are *not* getting your ears pierced."
+"I don't care! You are *not* getting your ears pierced."
 
- "We have to. Coach wants us to wear these purple---\"
+"We have to. Coach wants us to wear these purple---\"
 
- "You'll just have to tell her no."
+"You'll just have to tell her no."
 
- "You want me to be the only cheerleader without pierced ears?"
+"You want me to be the only cheerleader without pierced ears?"
 
- "Then you never should've joined the squad. You---" Suddenly, my
- mother looked at
+"Then you never should've joined the squad. You---" Suddenly, my
+mother looked at
 
 me calmly and quizzically, even somewhat pathetically, as if seeing me
 for the first time. But just as quickly she pulled back, returning to
@@ -3985,8 +3985,8 @@ Molasses Three) would eat even slower and put us both to shame!
 
 **Chapter 27: Alexander Morgan**
 
- "Welcome to the friggin' penthouse!" Walter beamed, as if the
- thirty-ninth floor was his
+"Welcome to the friggin' penthouse!" Walter beamed, as if the
+thirty-ninth floor was his
 
 and his alone. Stepping out of the elevator, he was immediately accosted
 by a security guard. "What the hell's this?" demanded Walter. "You know
@@ -3995,35 +3995,35 @@ who I am."
 "Someone tried to kill Mr. Turnus last week," replied the guard,
 frisking Walter. "Just after you left."
 
- "He has more enemies than y ou could shake a stick at," Walter said to
- me. "And that's just his own friggin' family."
+"He has more enemies than y ou could shake a stick at," Walter said to
+me. "And that's just his own friggin' family."
 
- "Everyone has to be checked," the guard apologized to Walter.
- "Everyone."
+"Everyone has to be checked," the guard apologized to Walter.
+"Everyone."
 
- "Any idea who it was?" asked Walter.
+"Any idea who it was?" asked Walter.
 
- The security shrugged, frisking me. Satisfied, he led us through a
- metal detector. "His office is at the end of the foyer."
+The security shrugged, frisking me. Satisfied, he led us through a
+metal detector. "His office is at the end of the foyer."
 
- "I know where the hell it is."
+"I know where the hell it is."
 
- If a prize were awarded for the most uselessly expensive foyer, this
- would win, hands down. The walls were lined with dozens of expensive,
- museum-looking portraits of people I didn't know, places I'd never
- seen. And no windows by the way---how can a foyer on the 39^th^ floor
- overlooking the Harbor not have a friggin' window? About two dozen
- mustard, oversized royal thrones were spaced about three feet apart.
- Obviously not for sitting---so why bother with them, as if anyone on
- their way to see Zachary Turnus would have the luxury of sitting? In
- the middle of the foyer, hung the biggest chandelier I had ever seen.
+If a prize were awarded for the most uselessly expensive foyer, this
+would win, hands down. The walls were lined with dozens of expensive,
+museum-looking portraits of people I didn't know, places I'd never
+seen. And no windows by the way---how can a foyer on the 39^th^ floor
+overlooking the Harbor not have a friggin' window? About two dozen
+mustard, oversized royal thrones were spaced about three feet apart.
+Obviously not for sitting---so why bother with them, as if anyone on
+their way to see Zachary Turnus would have the luxury of sitting? In
+the middle of the foyer, hung the biggest chandelier I had ever seen.
 
- "For the life of me I don't understand why he went to Spain for this
- friggin' thing," said Walter.
+"For the life of me I don't understand why he went to Spain for this
+friggin' thing," said Walter.
 
- Directly below the chandelier was a granite water fountain emptying
- into a shallow pool, guarded by two, six-foot golden urns. Ahead, at
- the foyer's end, was a three-foot, gold-lettered sign.
+Directly below the chandelier was a granite water fountain emptying
+into a shallow pool, guarded by two, six-foot golden urns. Ahead, at
+the foyer's end, was a three-foot, gold-lettered sign.
 
 GENERAL CONSTRUCTION, INC.
 
@@ -4160,34 +4160,34 @@ run it into the ground."
 his Scotch, quickly refilling his glass. "Your father was a mason, is
 that right?"
 
- "Yes," Walter replied. "And my grandfather and my great-grandfather. I
- come from a
+"Yes," Walter replied. "And my grandfather and my great-grandfather. I
+come from a
 
 long line of masons."
 
- "What about your sons?"
+"What about your sons?"
 
- "They're both in sheet metal. Someday they hope to start their own
- company."
+"They're both in sheet metal. Someday they hope to start their own
+company."
 
- "That doesn't bother you?"
+"That doesn't bother you?"
 
- "Hell no! It's great work."
+"Hell no! It's great work."
 
- "I mean that you're the last of the masons?"
+"I mean that you're the last of the masons?"
 
- Walter laughed. "Of course not. Why would it?"
+Walter laughed. "Of course not. Why would it?"
 
 Zachary sat down at his desk, gesturing for us to sit opposite. "You
 said this meeting was urgent. You're not retiring?"
 
 "Not for a while." Walter sipped his Coke. "You knew that."
 
- "Then what's on your mind?"
+"Then what's on your mind?"
 
- "Phil," Walter answered immediately.
+"Phil," Walter answered immediately.
 
- "What about him?"
+"What about him?"
 
 "He's constantly screwin' up. Always makin' the wrong decisions,
 reversing the right ones, forgettin' things, not coordinatin' with subs,
@@ -4197,10 +4197,10 @@ jeopardzin' our safety and pissin' people off."
 
 "And morale sucks," said Walter.
 
- "I don't care about morale, as long as the job gets done."
+"I don't care about morale, as long as the job gets done."
 
- "That's the problem," noted Walter. "Half the time I'm doing his work.
- He can't---\"
+"That's the problem," noted Walter. "Half the time I'm doing his work.
+He can't---\"
 
 "He's completely disorganized," I said. "Interrupting jobs, sending me
 on wild goose chases, sending me back to the shop in the middle of the
@@ -4218,34 +4218,34 @@ Zachary abruptly excused himself and ducked into his secretary's office.
 "A super needs to be flexible," he said, when he just as quickly
 returned. "Things come up; you have to be able to think on your feet."
 
- "Thinkin' on your feet's one thing, not knowin' where your nose is,
- that's another."
+"Thinkin' on your feet's one thing, not knowin' where your nose is,
+that's another."
 
- "That's not what I'm hearing. Everyone's praising Phil that we're
- eight days ahead
+"That's not what I'm hearing. Everyone's praising Phil that we're
+eight days ahead
 
 of schedule."
 
 "Only because of the unusually good weather," I noted.
 
- "If it was just the weather, we'd be on time: we factor good *and* bad
- weather when
+"If it was just the weather, we'd be on time: we factor good *and* bad
+weather when
 
 we do the bidding." Zachary glanced at his watch. "Anything else?"
 
 Walter took out a small spiral notebook from his shirt pocket.
 
- "Is that my father's?" asked Zachary, peering over the table.
+"Is that my father's?" asked Zachary, peering over the table.
 
- "He started me with this goddamned habit." Walter slipped on his
- reading glasses,
+"He started me with this goddamned habit." Walter slipped on his
+reading glasses,
 
 flipping through the pages. "There's been some talk about unionizing.
 The Teamsters have been snoopin' around. I thought you should know."
 
- *How the hell did Walter find out, and why's he bringing this up now?*
+*How the hell did Walter find out, and why's he bringing this up now?*
 
- "Unions just don't snoop around," Zachary retorted.
+"Unions just don't snoop around," Zachary retorted.
 
 "No one from General invited them," Walter clarified. "If that's what
 you're getting at."
@@ -4269,7 +4269,7 @@ that moron really operates."
 "I check up on *everyone*." Zachary glared at me with his stone-cold
 eyes. "And I don't have a problem with Phil."
 
- We shook hands and said good-bye.
+We shook hands and said good-bye.
 
 "What the hell was that all about?" I asked, once inside the elevator.
 
@@ -4525,13 +4525,13 @@ Lisa returned with my coffee and an over-sized brownie.
 
 I took a long sip, nodding my approval.
 
- "Glad you like it!" She sat opposite. Perspiration beaded on her
- forehead.
+"Glad you like it!" She sat opposite. Perspiration beaded on her
+forehead.
 
- "Is this really a decaf?"
+"Is this really a decaf?"
 
- "I told you that you couldn't tell the difference! Are you working
- overtime tonight?"
+"I told you that you couldn't tell the difference! Are you working
+overtime tonight?"
 
 I explained my visit with Zachary.
 
@@ -4540,7 +4540,7 @@ a triple shift: opening this morning, a day shift, and closing."
 
 "Maybe *you* need one of them switchblades."
 
- Lisa's phone vibrated. "Now what does he want?"
+Lisa's phone vibrated. "Now what does he want?"
 
 "Who?"
 
@@ -4550,10 +4550,10 @@ break, and I can't loiter with customers, no matter how cute." She rose
 and kissed me on the cheek. "Thanks for stopping by! Are you still
 coming this weekend?"
 
- "Yes."
+"Yes."
 
- She smiled. "We're leaving Friday night right after work. 5.15. And
- don't be late."
+She smiled. "We're leaving Friday night right after work. 5.15. And
+don't be late."
 
 **Chapter 30: Joanna Turnus**
 
@@ -4790,43 +4790,43 @@ As my grandmother read, my grandfather hooted and howled at practically
 every word, the banality of Mrs. Mildred, although it was chilling how
 much she knew:
 
- "Mrs. Collins' younger sister Eleanor just visited from New
- Jersey---I'm sure you all remember her visit last summer---who can
- forget? This year's trip was calmer, and thankfully no one caused a
- scene---exactly why I'm not sure---although last summer's trip had
- enough scenes to last a lifetime.
+"Mrs. Collins' younger sister Eleanor just visited from New
+Jersey---I'm sure you all remember her visit last summer---who can
+forget? This year's trip was calmer, and thankfully no one caused a
+scene---exactly why I'm not sure---although last summer's trip had
+enough scenes to last a lifetime.
 
- This year's trip started similarly, which worried yours truly and
- everyone else in the Lakes Region, with the two sisters breakfasting
- at the Center Restaurant, sans husbands. A good idea since they never
- would have got a word in edgewise. I'm sorry to say that I didn't get
- to see them. I arrived early (the same time as her last visit)
- thinking they would want to get a head start on such a beautiful day,
- but they had overslept (out late the night before at a neighborhood
- party, which somehow I had missed?) and almost canceled their 10.15
- pedicure/manicure (also a tradition) but Eleanor insisted that a
- weekend visit wouldn't be the same without first breakfasting at the
- Center. (How about a little flexibility: Maybe Sunday brunch to wrap
- up the weekend?) So, they called Lucille and rescheduled for 11.00. Of
- course, Lucille was super busy (when is she not? especially on a
- Saturday?) but she happily obliged, only because their husbands
- graduated together from Inter-Lakes High School, Class of 1977 (along
- with yours truly).
+This year's trip started similarly, which worried yours truly and
+everyone else in the Lakes Region, with the two sisters breakfasting
+at the Center Restaurant, sans husbands. A good idea since they never
+would have got a word in edgewise. I'm sorry to say that I didn't get
+to see them. I arrived early (the same time as her last visit)
+thinking they would want to get a head start on such a beautiful day,
+but they had overslept (out late the night before at a neighborhood
+party, which somehow I had missed?) and almost canceled their 10.15
+pedicure/manicure (also a tradition) but Eleanor insisted that a
+weekend visit wouldn't be the same without first breakfasting at the
+Center. (How about a little flexibility: Maybe Sunday brunch to wrap
+up the weekend?) So, they called Lucille and rescheduled for 11.00. Of
+course, Lucille was super busy (when is she not? especially on a
+Saturday?) but she happily obliged, only because their husbands
+graduated together from Inter-Lakes High School, Class of 1977 (along
+with yours truly).
 
- Then it was on to a late lunch for the ladies, which was more of a
- social event, since neither could have been hungry after such a big
- breakfast. Lucille said that the two sisters debated for 'quite some
- time' where to lunch (as if we have a lot of choices in Meredith)
- finally deciding on the Turkey Farm (is there a better place for
- lunch, Saturday mid-afternoon?)
+Then it was on to a late lunch for the ladies, which was more of a
+social event, since neither could have been hungry after such a big
+breakfast. Lucille said that the two sisters debated for 'quite some
+time' where to lunch (as if we have a lot of choices in Meredith)
+finally deciding on the Turkey Farm (is there a better place for
+lunch, Saturday mid-afternoon?)
 
- Delores ordered the turkey special with all white meat, but Eleanor
- couldn't decide between white or dark. The waiter suggested ordering
- both; a nice young man, one of the Wilkenson boys, rather tall for his
- age, but unfortunately looks just like his mother (poor boy) but,
- thankfully, doesn't stir the pot like her. When finished, they
- discussed desert, although if you ask me, neither needed any. They
- finally decided on the home-made mincemeat pie. . ."
+Delores ordered the turkey special with all white meat, but Eleanor
+couldn't decide between white or dark. The waiter suggested ordering
+both; a nice young man, one of the Wilkenson boys, rather tall for his
+age, but unfortunately looks just like his mother (poor boy) but,
+thankfully, doesn't stir the pot like her. When finished, they
+discussed desert, although if you ask me, neither needed any. They
+finally decided on the home-made mincemeat pie. . ."
 
 Who monitors everyone's whereabouts, what they debated having for lunch,
 what they said and didn't say? I felt Mrs. Mildred's presence at the
@@ -5123,8 +5123,8 @@ away.
 
 Bullshit.
 
- I squirreled up the crane ladder and banged on the operator's window
- urging him to stop.
+I squirreled up the crane ladder and banged on the operator's window
+urging him to stop.
 
 "I can handle it," he snipped, wiping his forehead, surprised that
 anyone would dare question his judgement, especially a lowly laborer
@@ -5231,11 +5231,11 @@ after work,"
 
 "I can't."
 
- "Why?"\
- "I've a basketball game which I can't miss."
+"Why?"\
+"I've a basketball game which I can't miss."
 
- "Look kid, if you want to get elected AFL-CIO president, you have to
- make a friggin'
+"Look kid, if you want to get elected AFL-CIO president, you have to
+make a friggin'
 
 name for yourself and get yourself noticed. You need an issue and this
 is yours on a silver platter."
@@ -5572,9 +5572,9 @@ for another meeting.
 
 "What do you think we do at foundations?"
 
- "Can't you at least stay for dessert?" Doris asked. "I made apple
- crisp, your favorite." Joanna's phone rang; she let it go to
- voicemail.
+"Can't you at least stay for dessert?" Doris asked. "I made apple
+crisp, your favorite." Joanna's phone rang; she let it go to
+voicemail.
 
 "Just a second," Doris excused herself to the kitchen. "I'll fix you
 something to go."
@@ -5613,7 +5613,7 @@ Doris nudged Walter.
 
 "I'd like to," Joanna insisted, smiling at me.
 
- "Let me get you a piece of apple crisp, Alexander," offered Doris.
+"Let me get you a piece of apple crisp, Alexander," offered Doris.
 
 "Have Walter bring it in the morning," Joanna said. "I really need to
 go; I'm already late."
@@ -5691,8 +5691,8 @@ sure.
 "What's it like working for my father?" I asked, as we pulled away from
 Walter's driveway.
 
- "Your father? Since I started at General, I've only seen him
- twice---both in the last two
+"Your father? Since I started at General, I've only seen him
+twice---both in the last two
 
 days."
 
@@ -6068,10 +6068,10 @@ Take another friggin' leak
 
 Nap
 
- Still nursing my coffee, I felt the dock squeaking and moaning.
+Still nursing my coffee, I felt the dock squeaking and moaning.
 
- "I'm going into town for some leeches," Derek said, his booming voice
- echoing across
+"I'm going into town for some leeches," Derek said, his booming voice
+echoing across
 
 the hills. "You coming?"
 
@@ -6502,7 +6502,7 @@ yards away. A lone dog relentlessly barked, echoing through the hills.
 
 "So you didn't get her anything?"
 
- "I got her an IOU for a manicure."
+"I got her an IOU for a manicure."
 
 "That should go over well."
 
@@ -6591,7 +6591,7 @@ about the boat's horsepower, but I was focused on the shapely, red
 bikini-clad woman wearing a half-unzipped, white windbreaker. "Since
 when does the Marine Patrol dress like that?" I asked.
 
- "They dress like that and nab you for every violation."
+"They dress like that and nab you for every violation."
 
 "She can nab me all she wants."
 
@@ -6741,83 +6741,83 @@ insisted that extras are always around. Sure enough she was still
 writing the same column with the same drivel. I ordered another cup of
 coffee and began writing my own column; a column about this disturbed
 and disturbing 'guy' from Massachusetts:
-
- This Saturday morning---yes, I know many of you were at the flapjack
- feed--- a young man from Massachusetts---a most unusual 'man' and I
- use that word lightly, pulled into the Center parking lot in a black
- Lexus with Massachusetts plates. Nothing against our friends south of
- the border---a warm New Hampshire hello to our good friend Nancy
- Deshlow! Will you be spending Thanksgiving with us? But a black Lexus
- in the Center Restaurant parking lot---that's a first!
-
- Now, back to this young man, or perhaps young woman? To be honest, at
- times I couldn't tell, despite his facial hair, or maybe because of
- it? (I couldn't get close to see if it was real, but I will his next
- visit---mark my words.) The young man (for now let's call him that)
- insisted on waiting for a particular booth---why I have no idea, since
- they're all the same with the same view---then began reading a book.
- Who reads a book here? A newspaper, yes, so you can keep up with yours
- truly, but a book? How rude! I couldn't see the full title since he
- kept it flat, seldom raising it, although the words 'Woman' and
- 'Berlin' left little to the imagination. Keep that racy stuff in the
- bedroom and not at a family restaurant.
-
- He took his time before ordering, hardly saying anything, completely
- ignoring his waitress---Mary, Mrs. Stanley's niece, such a lovely
- girl. She seemed interested in this young man; why, I don't know,
- certainly not my cup of tea. Too many earrings---yes, but I guess that
- so many young men wear them these days that I'm sure Mary didn't even
- notice---not like in my day when just one raised a lot of questions.
- Nowadays, one is OK, like my cousin Russell, and to be honest he
- doesn't look that bad, although maybe I'm just used to it? But this
- young man had five piercings in his right ear, and six---yes, six in
- his left. I don't even like that many earrings on a girl. What was he
- trying to prove? I have just one in each ear, although my sister
- Margaret has two and keeps pestering me to get another, which I
- suppose I will someday, just to keep her happy.
-
- The young man eventually ordered blueberry pancakes---if he had waited
- any longer, it would've been lunchtime. Mary suggested that he also
- order the homemade bacon or sausage---everyone does---that's what the
- Center's known for--- but he abruptly refused, and rather rudely I
- thought. She tried so hard to start a conversation, obviously liking
- him---sometimes I just don't understand this younger generation. He
- asked for real maple syrup---really? Everyone knows that the Center
- restaurant only serves the real stuff.
-
- He didn't talk to anyone, just kept to himself. How rude! But when he
- did, sometimes it was high-pitched, like he was deliberately trying to
- talk like a girl. Maybe something to do with all those earrings?
-
- I've never seen such effeminate hands on a man: slender like a female
- pianist's---not exactly a compliment. He was obviously rich, driving a
- Lexus---I'm sure he probably never had to work a day in his life. And
- from what I could tell, no calluses either---a safe bet that he's
- never chopped a cord of wood.
-
- The young man used his right hand for everything, while hiding his
- left on his lap. I assumed his hands were manicured but sorry to
- disappoint, they were not, which is good because you don't see that
- around here, although sometimes in Manchester I'll see a young man
- with grey polish, or an older gentleman with clear.
-
- He had lots of tattoos---way too many---and that's just what I could
- see. His sleeves were rolled up just above the wrist---yes, it was
- warm outside but inside it was chilly as always. On each wrist was a
- scar about four inches long. At first, I thought it was part of the
- design, but the more I looked, the more I realized what it was and why
- it was there.
-
- He finished his breakfast (it took him forever) without talking, then
- asked for coffee to go. (How can anyone drink that much coffee and not
- use the bathroom?) He wanted to pay with an American Express Gold
- Card. Really? Everyone knows that the Center doesn't accept credit
- cards. Then he gave the waitress a fifty-dollar bill insisting that
- she keep the change! Mary immediately smiled, tried to talk with him,
- but he hurried away, a tad off-balance, exaggerating a low step in his
- walk as if compensating for one leg being shorter or something. But at
- least he held the door open for two young ladies, who looked related,
- like they were sisters, even chatting briefly.
+ 
+> This Saturday morning---yes, I know many of you were at the flapjack
+> feed--- a young man from Massachusetts---a most unusual 'man' and I
+> use that word lightly, pulled into the Center parking lot in a black
+> Lexus with Massachusetts plates. Nothing against our friends south of
+> the border---a warm New Hampshire hello to our good friend Nancy
+> Deshlow! Will you be spending Thanksgiving with us? But a black Lexus
+> in the Center Restaurant parking lot---that's a first!
+> 
+> Now, back to this young man, or perhaps young woman? To be honest, at
+> times I couldn't tell, despite his facial hair, or maybe because of
+> it? (I couldn't get close to see if it was real, but I will his next
+> visit---mark my words.) The young man (for now let's call him that)
+> insisted on waiting for a particular booth---why I have no idea, since
+> they're all the same with the same view---then began reading a book.
+> Who reads a book here? A newspaper, yes, so you can keep up with yours
+> truly, but a book? How rude! I couldn't see the full title since he
+> kept it flat, seldom raising it, although the words 'Woman' and
+> 'Berlin' left little to the imagination. Keep that racy stuff in the
+> bedroom and not at a family restaurant.
+> 
+> He took his time before ordering, hardly saying anything, completely
+> ignoring his waitress---Mary, Mrs. Stanley's niece, such a lovely
+> girl. She seemed interested in this young man; why, I don't know,
+> certainly not my cup of tea. Too many earrings---yes, but I guess that
+> so many young men wear them these days that I'm sure Mary didn't even
+> notice---not like in my day when just one raised a lot of questions.
+> Nowadays, one is OK, like my cousin Russell, and to be honest he
+> doesn't look that bad, although maybe I'm just used to it? But this
+> young man had five piercings in his right ear, and six---yes, six in
+> his left. I don't even like that many earrings on a girl. What was he
+> trying to prove? I have just one in each ear, although my sister
+> Margaret has two and keeps pestering me to get another, which I
+> suppose I will someday, just to keep her happy.
+> 
+> The young man eventually ordered blueberry pancakes---if he had waited
+> any longer, it would've been lunchtime. Mary suggested that he also
+> order the homemade bacon or sausage---everyone does---that's what the
+> Center's known for--- but he abruptly refused, and rather rudely I
+> thought. She tried so hard to start a conversation, obviously liking
+> him---sometimes I just don't understand this younger generation. He
+> asked for real maple syrup---really? Everyone knows that the Center
+> restaurant only serves the real stuff.
+> 
+> He didn't talk to anyone, just kept to himself. How rude! But when he
+> did, sometimes it was high-pitched, like he was deliberately trying to
+> talk like a girl. Maybe something to do with all those earrings?
+> 
+> I've never seen such effeminate hands on a man: slender like a female
+> pianist's---not exactly a compliment. He was obviously rich, driving a
+> Lexus---I'm sure he probably never had to work a day in his life. And
+> from what I could tell, no calluses either---a safe bet that he's
+> never chopped a cord of wood.
+> 
+> The young man used his right hand for everything, while hiding his
+> left on his lap. I assumed his hands were manicured but sorry to
+> disappoint, they were not, which is good because you don't see that
+> around here, although sometimes in Manchester I'll see a young man
+> with grey polish, or an older gentleman with clear.
+> 
+> He had lots of tattoos---way too many---and that's just what I could
+> see. His sleeves were rolled up just above the wrist---yes, it was
+> warm outside but inside it was chilly as always. On each wrist was a
+> scar about four inches long. At first, I thought it was part of the
+> design, but the more I looked, the more I realized what it was and why
+> it was there.
+> 
+> He finished his breakfast (it took him forever) without talking, then
+> asked for coffee to go. (How can anyone drink that much coffee and not
+> use the bathroom?) He wanted to pay with an American Express Gold
+> Card. Really? Everyone knows that the Center doesn't accept credit
+> cards. Then he gave the waitress a fifty-dollar bill insisting that
+> she keep the change! Mary immediately smiled, tried to talk with him,
+> but he hurried away, a tad off-balance, exaggerating a low step in his
+> walk as if compensating for one leg being shorter or something. But at
+> least he held the door open for two young ladies, who looked related,
+> like they were sisters, even chatting briefly.
 
 I signed the letter Mrs. Mildred.
 
@@ -6872,11 +6872,11 @@ in the rain, on the beach, my head softly on his shoulder.
 
 "We thought you were the Marine Patrol," Alexander said, laughing.
 
- "Really, Alexander? In a red bikini?"
+"Really, Alexander? In a red bikini?"
 
- "My brother insisted---"
+"My brother insisted---"
 
- "*That's* your brother?"
+"*That's* your brother?"
 
 "We always said that he was adopted."
 
@@ -6931,13 +6931,13 @@ the wheel. "Just like driving a bulldozer, except a little faster."
 
 Alexander laughed trading places. "You can drive a bulldozer?"
 
- "You should see me with a backhoe."
+"You should see me with a backhoe."
 
 Alexander looked at me incredulously.
 
- "And, I have a Class One license."
+"And, I have a Class One license."
 
- "Now, that I don't believe."
+"Now, that I don't believe."
 
 I reached for the glove compartment, fumbled through my purse and
 proudly displayed my Class One Massachusetts Driving License. "My
@@ -6986,10 +6986,10 @@ had been growling so loud.
 "Absolutely delicious," he said, as I dished my plate. "The best fried
 chicken I've ever had. Hands down."
 
- I grabbed two bottled beers from my cooler, offering Alexander one,
- taking one for myself.
+I grabbed two bottled beers from my cooler, offering Alexander one,
+taking one for myself.
 
- "Narragansett?" asked Alexander, examining the label.
+"Narragansett?" asked Alexander, examining the label.
 
 "My grandfather's favorite. And sometimes my grandmother would even have
 one, but only if the day was hot."
@@ -7176,12 +7176,12 @@ someone?"
 
 "She never laughed."
 
- I burst out laughing, not because I wanted to impress, but because I
- laugh easy---everyone knows that. "What do you mean she never laughed?
- How can someone *never* laugh?"
+I burst out laughing, not because I wanted to impress, but because I
+laugh easy---everyone knows that. "What do you mean she never laughed?
+How can someone *never* laugh?"
 
- "I don't know." Alexander helped himself to another piece of chicken.
- "She just never
+"I don't know." Alexander helped himself to another piece of chicken.
+"She just never
 
 laughed. Not even once."
 
@@ -7751,13 +7751,13 @@ And then I'm in three feet of water."
 
 "You must've gone through the shoals."
 
- "What shoals? I was looking for you! How the hell was I supposed to
- know about any
+"What shoals? I was looking for you! How the hell was I supposed to
+know about any
 
 friggin' shoals?"
 
- The engine and floorboards appeared to be fine---thank God. The right
- propellor seemed
+The engine and floorboards appeared to be fine---thank God. The right
+propellor seemed
 
 to be OK. But the left propellor was completely broken off.
 
@@ -7993,15 +7993,12 @@ heavy for mid-afternoon, even by Boston standards; perhaps due to
 construction or an accident?---was that I had time to think about my
 design for the friggin' staging. I sketched out the essentials:
 
--   It had to be our colors, green and white.
-
--   Paint only one small part of each piece of staging, and not the
-    whole piece.
-
--   Visible from a distance so no bastard in his right mind would even
-    think of stealing it.
-
--   Spray paint it, which would be quicker and much cheaper.
+- It had to be our colors, green and white.
+- Paint only one small part of each piece of staging, and not the
+   whole piece.
+- Visible from a distance so no bastard in his right mind would even
+   think of stealing it.
+- Spray paint it, which would be quicker and much cheaper.
 
 Surprisingly, the design came quickly: A five-inch stripe with
 alternating green, white, and yellow, fluorescent bands on two of the
@@ -8142,7 +8139,7 @@ decided on shorts: who'd be looking at my legs?
 At the last moment I dashed on a little Armani, which I hadn't worn in a
 long time.
 
- **BOOK THREE**
+**BOOK THREE**
 
 **Chapter 1: Joanna Turnus**
 
@@ -8382,9 +8379,9 @@ keep dancing?"
 
 "Some freak?"
 
- "I didn't say that."\
- "You didn't have to. You should've seen yourself inspecting her up
- and---\"
+"I didn't say that."\
+"You didn't have to. You should've seen yourself inspecting her up
+and---\"
 
 "Forgive me for having no idea who's a man and who's a woman. Forgive me
 for not wanting to dance with her. It's bad enough that I---"
@@ -8409,17 +8406,17 @@ Rachel sitting alone on a wooden bench at the far end of the dance
 floor, elbows on her legs, resting her head in her palms, and walked
 over to apologize.
 
- "Don't patronize me," she snipped, wiping her eyelids with her index
- finger.
+"Don't patronize me," she snipped, wiping her eyelids with her index
+finger.
 
- "I'm not patronizing you or anyone else. I *am* sorry."
+"I'm not patronizing you or anyone else. I *am* sorry."
 
- "Then leave, you made your point."
+"Then leave, you made your point."
 
- "What is with you people?"
+"What is with you people?"
 
- "You people!! You people?" She started to cry. I tried sitting next to
- her, but she
+"You people!! You people?" She started to cry. I tried sitting next to
+her, but she
 
 schussed me away. "Just go. Haven't you done enough damage? You think
 you're so perfect, saying whatever you want, treating us like dirt."
@@ -8452,8 +8449,8 @@ please everyone; everyone, that is, except ourselves."
 
 "If that makes you feel good. A Diet Pepsi, lots of ice."
 
- When I returned with Rachel's drink and two beers for myself, she had
- stretched
+When I returned with Rachel's drink and two beers for myself, she had
+stretched
 
 her back against the wall, barefoot, her long legs extended.
 
@@ -8474,20 +8471,20 @@ Rachel sipped her drink. "What do you think?"
 "She was born female. She likes being female. She's very much attracted
 to guys but also has a male identity."
 
- "What the hell does that mean?"\
- "You're are a male, right?"
+"What the hell does that mean?"\
+"You're are a male, right?"
 
- "What do you think?"
+"What do you think?"
 
- "You identify as a male?"
+"You identify as a male?"
 
- "Never even thought about it. I was born a male. I've always been a
- male, so why would
+"Never even thought about it. I was born a male. I've always been a
+male, so why would
 
 I identify as something else?"
 
- Rachel chewed on an ice cube. "I think I get what you're saying. Now
- think of a
+Rachel chewed on an ice cube. "I think I get what you're saying. Now
+think of a
 
 woman, say your mother, who identifies as a woman; then throw in a male
 identity in the same body and mix the two together. That's how it is
@@ -8657,8 +8654,8 @@ cop ID.
 "You *are* a cop? Robert McNair?" I held the ID up to her face. "Really?
 This is you? A moustache? It doesn't look anything like you."
 
- "That was five years ago when I first joined the force.\
- "How do you. . .how do you hide everything?"
+"That was five years ago when I first joined the force.\
+"How do you. . .how do you hide everything?"
 
 "It ain't easy."
 
@@ -8678,11 +8675,11 @@ This is you? A moustache? It doesn't look anything like you."
 
 "Where else would be?"
 
- "A bar, a club?"
+"A bar, a club?"
 
- "She doesn't drink."
+"She doesn't drink."
 
- "Where does she live?" I asked.
+"Where does she live?" I asked.
 
 "In Concord, with me."
 
@@ -8964,22 +8961,22 @@ doctor:
 
 'Dear Robert'--- (No one ever calls me Robert.)
 
- We can no longer be friends and must curtail all meetings and
- correspondence. You violated our trust and failed to honor the bounds
- of friendship. You deceived us. And your recent abhorrent and
- inexplicable behavior has been deplorably embarrassing. Like that one
- Saturday morning having coffee after biking (I'm sure you remember; we
- all do, my wife still can't stop talking about it) when all of a
- sudden and without reason, in the middle of our conversation, you
- started crying. How embarrassing. Everyone was staring at us. You
- tried to brush it off as allergies, but we all knew better. Your
- ill-timed jokes also embarrassed us, and your failure to laugh at ours
- and avidly participate in our conversations underscored what everyone
- already knew. We can especially no longer trust you to our children,
- setting such a poor example of what it means to be a man, and going
- against God-given precepts. While all this was definitely a factor in
- rendering our decision, in our view we would have terminated the
- friendship anyway; it had run its course.'
+We can no longer be friends and must curtail all meetings and
+correspondence. You violated our trust and failed to honor the bounds
+of friendship. You deceived us. And your recent abhorrent and
+inexplicable behavior has been deplorably embarrassing. Like that one
+Saturday morning having coffee after biking (I'm sure you remember; we
+all do, my wife still can't stop talking about it) when all of a
+sudden and without reason, in the middle of our conversation, you
+started crying. How embarrassing. Everyone was staring at us. You
+tried to brush it off as allergies, but we all knew better. Your
+ill-timed jokes also embarrassed us, and your failure to laugh at ours
+and avidly participate in our conversations underscored what everyone
+already knew. We can especially no longer trust you to our children,
+setting such a poor example of what it means to be a man, and going
+against God-given precepts. While all this was definitely a factor in
+rendering our decision, in our view we would have terminated the
+friendship anyway; it had run its course.'
 
 "Are you friggin' shitting me?" I asked.
 
@@ -8994,36 +8991,36 @@ arrogance.
 
 "So I wrote my own letter in response:
 
- Dear 'friends':
+Dear 'friends':
 
- I never expected complete acceptance, especially from people who have
- weaved a self-delusional, deceptive cocoon shutting out life's
- travails, although perhaps a little understanding and support.
- Obviously, I was the one who was self-delusional.
+I never expected complete acceptance, especially from people who have
+weaved a self-delusional, deceptive cocoon shutting out life's
+travails, although perhaps a little understanding and support.
+Obviously, I was the one who was self-delusional.
 
- Friendship is not just a connivance for sunny days, cook-outs, and
- ballgames. It also requires a commitment to be there in times of
- darkness and despair; to reach out, listen and support.
+Friendship is not just a connivance for sunny days, cook-outs, and
+ballgames. It also requires a commitment to be there in times of
+darkness and despair; to reach out, listen and support.
 
- I pray you never have to experience life's tragedies---you wouldn't
- know how to deal with them. Your money has insulated you. You
- manipulate people to suit your needs and then summarily discard anyone
- no longer useful, like an old dishrag.
+I pray you never have to experience life's tragedies---you wouldn't
+know how to deal with them. Your money has insulated you. You
+manipulate people to suit your needs and then summarily discard anyone
+no longer useful, like an old dishrag.
 
- While you are free to say whatever you want, however callous and
- ill-conceived, please don't invoke God, for this underscores how far
- you have strayed from the true message of the Gospels and your willful
- ignorance. The God I know is kind, loving and caring of all his
- Creation, not just the pious few who think they know who God is. And
- your children can see right through you. They silently call you a
- hypocrite, as you diligently read your Bible early in the evening
- where everyone can see, ostensibly incurring favor with God, nodding
- and underlying and jotting notes as if you understood, and then
- impugning and debasing His words with your actions.
+While you are free to say whatever you want, however callous and
+ill-conceived, please don't invoke God, for this underscores how far
+you have strayed from the true message of the Gospels and your willful
+ignorance. The God I know is kind, loving and caring of all his
+Creation, not just the pious few who think they know who God is. And
+your children can see right through you. They silently call you a
+hypocrite, as you diligently read your Bible early in the evening
+where everyone can see, ostensibly incurring favor with God, nodding
+and underlying and jotting notes as if you understood, and then
+impugning and debasing His words with your actions.
 
- Please forgive me for thinking that our friendship meant something,
- that you would have at least listened. I assumed we'd always be there
- for each other. How naïve was that?'
+Please forgive me for thinking that our friendship meant something,
+that you would have at least listened. I assumed we'd always be there
+for each other. How naïve was that?'
 
 "I mailed, emailed, texted, and even delivered the letter, but never got
 a response. Then two weeks later I had read in the paper that my
@@ -9082,9 +9079,9 @@ the window. "Of all the times to be pulled over."
 
 "She's never seen me like this."
 
- "Then let me do the talking."\
- "Then she'll really be suspicious. Stuff my purse under the seat. I'd
- rather be fined
+"Then let me do the talking."\
+"Then she'll really be suspicious. Stuff my purse under the seat. I'd
+rather be fined
 
 for not having a license than have to explain everything to this
 bitch---of all the people to pull me over."
@@ -9186,13 +9183,13 @@ playfully. "I mean not that I was interested. Just happened to notice."
 
 "Where do you buy false beards?" I asked, quickly changing the subject.
 
- "I wouldn't wear one if you'd paid me a million bucks."
+"I wouldn't wear one if you'd paid me a million bucks."
 
- "The world doesn't involve around you."
+"The world doesn't involve around you."
 
 "You'd look good in one!"
 
- "I can grow my own, thank-you."
+"I can grow my own, thank-you."
 
 "For Joanna?" Rachel smiled. "That's so sweet! There's a store near
 Faneuil Hall and let's see, another near your work, in Harvard Square."
@@ -9223,9 +9220,9 @@ pine trees.
 
 Rachel opened the automatic garage door. "Just us."
 
- "So you need an eight-car garage for two people?"\
- "It's just a five car garage." She pointed to Joanna's Lexus next to a
- BMW. "Joanna's
+"So you need an eight-car garage for two people?"\
+"It's just a five car garage." She pointed to Joanna's Lexus next to a
+BMW. "Joanna's
 
 home, just like I said."
 
@@ -9233,16 +9230,16 @@ home, just like I said."
 
 "The BMW's mine."
 
- I opened the door and scrambled out.
+I opened the door and scrambled out.
 
 "Where do you think you're going? You're the last person she wants to
 see. Stay put. I won't be long."
 
 **Chapter 3: Joanna Turnus**
 
- "Rachel?" I sat up. Is that you?"\
- She was sitting on the edge of my bed, damping my forehead with a warm
- bath towel.
+"Rachel?" I sat up. Is that you?"\
+She was sitting on the edge of my bed, damping my forehead with a warm
+bath towel.
 
 "I made you some tea."
 
@@ -9613,7 +9610,7 @@ have to get ready for Mass."
 
 I shook my head. "Joanna's OK?"
 
- "I wouldn't go otherwise, and besides, I'll only be gone for an hour."
+"I wouldn't go otherwise, and besides, I'll only be gone for an hour."
 
 "And you? How are you?"
 
@@ -9636,42 +9633,42 @@ I assumed my phone vibrating was Rachel checking in (again), inviting me
 down once again for pizza---she's so sweet---but it was CCB's VP of
 human resources texting my father, copying me,
 
- 'Effective immediately, every subsidiary must make redundant any
- employee who no longer comports with our long-term interests and
- long-term financial security, including and especially union
- supporters. To be efficacious, it need not be more than one, unless,
- of course, the situation calls otherwise; in fact, extirpating one to
- make an example is highly recommended *and* highly efficacious.'
+'Effective immediately, every subsidiary must make redundant any
+employee who no longer comports with our long-term interests and
+long-term financial security, including and especially union
+supporters. To be efficacious, it need not be more than one, unless,
+of course, the situation calls otherwise; in fact, extirpating one to
+make an example is highly recommended *and* highly efficacious.'
 
- Extirpate? If someone's not performing, he's fired, not extirpated,
- and if someone's
+Extirpate? If someone's not performing, he's fired, not extirpated,
+and if someone's
 
- unionizing, extirpate the threat, not the person (without a paper
- trail), unless you either want a lawsuit (which I'm sure they don't)
- or they're trapping someone (which has to be me).
+unionizing, extirpate the threat, not the person (without a paper
+trail), unless you either want a lawsuit (which I'm sure they don't)
+or they're trapping someone (which has to be me).
 
 My father immediately responded:
 
- 'I have several individuals in mind. In fact, it would've been done
- anyway. Necessary spring cleaning.'
+'I have several individuals in mind. In fact, it would've been done
+anyway. Necessary spring cleaning.'
 
 I thought of Alexander and immediately texted back:
 
- 'As General's legal counsel, for the record, I state categorically
- that we will not fire anyone singularly based on union activities.
- This is, as you know, illegal, but even if not, I fail to see its
- necessity: Our long-standing, non-union modus operandi is well-known
- and will not change. So why deliberately draw attention to something
- palpably illegal? We have *always* strictly complied with the law (and
- its spirit) and will continue to do so. I oppose this illegal action
- and do not endorse it.'
+'As General's legal counsel, for the record, I state categorically
+that we will not fire anyone singularly based on union activities.
+This is, as you know, illegal, but even if not, I fail to see its
+necessity: Our long-standing, non-union modus operandi is well-known
+and will not change. So why deliberately draw attention to something
+palpably illegal? We have *always* strictly complied with the law (and
+its spirit) and will continue to do so. I oppose this illegal action
+and do not endorse it.'
 
- My father immediately called, of course, which I let go to voicemail.
+My father immediately called, of course, which I let go to voicemail.
 
 **Chapter 6: Alexander Morgan**
 
- Just minutes from the bank's parking lot, my phone rang. It was 7:10.
- Phil's usual calling
+Just minutes from the bank's parking lot, my phone rang. It was 7:10.
+Phil's usual calling
 
 time to head back to the shop for something that he had forgotten or
 that he should've brought yesterday. Sometimes he forgets that I'm
@@ -9761,14 +9758,14 @@ I spotted Walter in his truck, finishing his coffee. I hurried over.
 "You need more money, kid?" Walter dug into his pocket. "You're always
 needin' cash."
 
- I shook my head, climbing climbed into the passenger seat. "Can you
- shut your
+I shook my head, climbing climbed into the passenger seat. "Can you
+shut your
 
 window?"
 
- "It *is* shut."
+"It *is* shut."
 
- I opened the door. "Nah, I can't say nothing."
+I opened the door. "Nah, I can't say nothing."
 
 "You can't say shit like that, then not say nothin'. What's eatin' you?
 What happened in the trailer?"
@@ -9798,18 +9795,18 @@ anything else?"
 "No." I opened the door and stepped down from his cab. "Don't say
 nothing about this to Joanna. She don't know that I know."
 
- "Don't worry kid; your secret's safe with me."
+"Don't worry kid; your secret's safe with me."
 
- "You coming? We have a bank to build."
+"You coming? We have a bank to build."
 
- "Just a second. I have to call Doris."
+"Just a second. I have to call Doris."
 
 Lisa texted me. "Can we talk?"
 
- "Working." I clicked my phone and stuffed it into my back pocket.
+"Working." I clicked my phone and stuffed it into my back pocket.
 
- Walter quickly caught up to me, chatting about what needed to do be
- done today, when
+Walter quickly caught up to me, chatting about what needed to do be
+done today, when
 
 this effeminate guy in baggy green pants and a brown baggy shirt,
 approached.
@@ -9858,11 +9855,11 @@ accused the person of insane madness.
 "It's on me. I mean, ha ha---I'd never wear such a thing. That's OK.
 Don't worry about it, Alexander."
 
- "Rachel---or should I call you Bobby?"\
- "Rachel."
+"Rachel---or should I call you Bobby?"\
+"Rachel."
 
- "Rachel, can you put these in a bag or something and stick them in the
- back of my truck:
+"Rachel, can you put these in a bag or something and stick them in the
+back of my truck:
 
 it's the black Silverado next to the dumpster."
 
@@ -9880,25 +9877,25 @@ Rachel reached over, giggling and in an exaggerated feminine motion,
 snatched it and handed it to me. "Joanna wants an immediate answer. It
 only takes a second to read."
 
- "Fine." I started reading:
+"Fine." I started reading:
 
- 'Dearest Alexander:
+'Dearest Alexander:
 
- I am [sooooo]{.ul} sorry. I don't know where to begin or what to say.
- I understand if you want nothing to do with me. After all, in just the
- short time that we have known each other, I've disappeared twice, if
- that's the right word. However, I would like to invite you to dinner
- at my house, tomorrow night, around six. I would like it very much if
- you came, although I understand if you said no.
+I am [sooooo]{.ul} sorry. I don't know where to begin or what to say.
+I understand if you want nothing to do with me. After all, in just the
+short time that we have known each other, I've disappeared twice, if
+that's the right word. However, I would like to invite you to dinner
+at my house, tomorrow night, around six. I would like it very much if
+you came, although I understand if you said no.
 
- Joanna
+Joanna
 
- P.S. I miss you!
+P.S. I miss you!
 
- P.S.S. There's no water around so you don't have to worry about me
- jumping overboard!'
+P.S.S. There's no water around so you don't have to worry about me
+jumping overboard!'
 
- "Well?" Rachel asked.
+"Well?" Rachel asked.
 
 I found myself saying yes, not exactly sure why.
 
@@ -10020,8 +10017,8 @@ nothing intricate by any means:
 -   Slice it very thin.
 
 -   Serve it with grilled baby bok choy (large is too chewy), Japanese
-    noodles splashed with red pepper flakes and sweet cider, and roasted
-    red potatoes in olive oil and sea salt.
+   noodles splashed with red pepper flakes and sweet cider, and roasted
+   red potatoes in olive oil and sea salt.
 
 And for dessert: Martha Stewart's homemade tarts filled with sour cream
 and blackberries, topped with fresh basil---Rachel's favorite, although
@@ -10242,7 +10239,7 @@ you."
 I cut my steak into minute pieces. "Alexander, do you remember that
 young girl that you met on the cruise?"
 
- "I met a lot of *girls* on that cruise."
+"I met a lot of *girls* on that cruise."
 
 "She came up to us on the dance floor. Remember? You asked if she was
 looking for her parents. Two days later she took her own life. So where
@@ -10921,25 +10918,25 @@ vote and you can't vote for yourself."
 
 Alexander folded his card several times, then handed it to me.
 
- "Everyone knows which one is yours," I said.
+"Everyone knows which one is yours," I said.
 
- "Not necessarily."
+"Not necessarily."
 
- Rachel scribbled, crossed out, rewrote, then handed her card to me.
+Rachel scribbled, crossed out, rewrote, then handed her card to me.
 
- I glanced at Rachel, then Alexander, then back to Rachel, raising her
- arm. "Rachel two,
+I glanced at Rachel, then Alexander, then back to Rachel, raising her
+arm. "Rachel two,
 
 Joanna one, Alexander zero."
 
 "I demand a recount," said Alexander.
 
- "Rachel two, Joanna one, Alexander zero." I handed Rachel the prize
- money.
+"Rachel two, Joanna one, Alexander zero." I handed Rachel the prize
+money.
 
- "I can't take this from you," said Rachel, yawning.
+"I can't take this from you," said Rachel, yawning.
 
- "You won it sweetie, fair and square."
+"You won it sweetie, fair and square."
 
 "So Rachel 'ol buddy, ol' pal; what you going to do with your friggin'
 winnings?"
@@ -11062,15 +11059,15 @@ turned back. "Rachel? She'll be OK?"
 
 "Has she ever thought of doing something else?"
 
- "Being a cop is all she's ever wanted to do. Why do you ask?"
+"Being a cop is all she's ever wanted to do. Why do you ask?"
 
- "She's missing that confidence, that edge, that cockiness that all
- female cops have."
+"She's missing that confidence, that edge, that cockiness that all
+female cops have."
 
- "What makes you such an expert?"
+"What makes you such an expert?"
 
- Alexander smiled. "I was pulled over for speeding three times in one
- month by the same
+Alexander smiled. "I was pulled over for speeding three times in one
+month by the same
 
 lady cop."
 
@@ -11088,8 +11085,8 @@ to him, said to ask when her radar was last calibrated."
 
 "I thought we had something."
 
- "Are you serious?"\
- "We did date for a while, though."
+"Are you serious?"\
+"We did date for a while, though."
 
 "Spare me the details."
 
@@ -11141,17 +11138,17 @@ I rang the doorbell. The outside light clicked on.
 
 "What do you want?" demanded my father through the intercom.
 
- "We need to talk."
+"We need to talk."
 
- "About what?"
+"About what?"
 
- "I know about the concrete."
+"I know about the concrete."
 
- My father opened the door.
+My father opened the door.
 
- "Is the whole bank like that," I asked, "or just the vault?"
+"Is the whole bank like that," I asked, "or just the vault?"
 
- "What the hell are you talking about?"
+"What the hell are you talking about?"
 
 "I can sample every inch of the bank if you'd like. I also know about
 the cash to Walter, and to the building inspector and to the concrete
@@ -11181,10 +11178,10 @@ Rachel called. I let it go to voicemail
 immediately, I will take this public, starting with CCB." I started to
 leave, then returned. "And if anything happens to Alexander, I'll---"
 
- "So *that's* what this is about?"
+"So *that's* what this is about?"
 
- "If he falls off a roof, gets hit over the head with a two-by-six,
- steps on a nail, gets struck
+"If he falls off a roof, gets hit over the head with a two-by-six,
+steps on a nail, gets struck
 
 by lightning---if his mother gets hit by lightning---you'll have a major
 lawsuit. I'm not going to stand idle while you destroy my grandfather's
@@ -11294,17 +11291,17 @@ pissed as hell?"
 "Not a good time to be layin' anyone off," said Walter. "Especially the
 kid. Two months before the holidays?"
 
- "Companies do it all the time," Nick said, lighting another cigarette.
+"Companies do it all the time," Nick said, lighting another cigarette.
 
- "So they don't have to pay no Christmas bonus," Paul added.
+"So they don't have to pay no Christmas bonus," Paul added.
 
- "When was the last time *we* got a goddamned bonus of any kind?" Nick
- asked.
+"When was the last time *we* got a goddamned bonus of any kind?" Nick
+asked.
 
- "Phil's here to lay the kid off," said Gary. "Mark my words."
+"Phil's here to lay the kid off," said Gary. "Mark my words."
 
- "Why would anyone mark your words?" Abe asked. "You've never been
- right about
+"Why would anyone mark your words?" Abe asked. "You've never been
+right about
 
 nothing."
 
@@ -11318,15 +11315,15 @@ would've been the highlight of his friggin' career."
 "Maybe *he's* being laid off and he has to give the envelope to
 himself?" Abe suggested.
 
- "He'd even screw that up," I said.
+"He'd even screw that up," I said.
 
 "You don't lay someone off in the middle of the day," said Walter.
 "Unless he fucked up
 
 then and there."
 
- I suddenly remembered my encounter with Mr. Hudson, my lunch at *The
- Edge*, and
+I suddenly remembered my encounter with Mr. Hudson, my lunch at *The
+Edge*, and
 
 signing Paul's name for the compactor.
 
@@ -11344,28 +11341,28 @@ the envelope.
 "What's this?" Walter asked. With a razor knife from his pocket, he slit
 open the envelope. "A check? Last week's overtime?"
 
- "Two weeks' pay," Phil said, his voice cracking.
+"Two weeks' pay," Phil said, his voice cracking.
 
- "*Two weeks' pay?* So why's my name on it?"
+"*Two weeks' pay?* So why's my name on it?"
 
- "It wasn't my decision," Phil said in a slightly stronger voice.
+"It wasn't my decision," Phil said in a slightly stronger voice.
 
- "Then *whose* decision was it?" Walter asked, finally realizing what
- was happening.
+"Then *whose* decision was it?" Walter asked, finally realizing what
+was happening.
 
- "Zachary's."
+"Zachary's."
 
- "*Zachary's?*" Walter whipped out his cell phone: "Zachary! What the
- fuck's goin' on!
+"*Zachary's?*" Walter whipped out his cell phone: "Zachary! What the
+fuck's goin' on!
 
 Call me!" Walter tore the check into pieces.
 
- "That was stupid," said Phil.
+"That was stupid," said Phil.
 
- "I'm goin' back to work until Zachary clears this up."
+"I'm goin' back to work until Zachary clears this up."
 
- "You're fired," retorted Phil, seemingly more confident. "By Zachary.
- And if you
+"You're fired," retorted Phil, seemingly more confident. "By Zachary.
+And if you
 
 don't vacate the premise, you'll be arrested for trespassing. Zachary's
 orders. Is that what you want?" Phil asked reaching for his cell phone.
@@ -11728,7 +11725,7 @@ alone in a swimming pool?"
 We watched Alexander swim to the far end of the pool bobbing up and down
 like a loon on steroids.
 
- "Joanna, I quit my job."
+"Joanna, I quit my job."
 
 "What! Why? I thought we were going to fight this?"
 
@@ -11759,8 +11756,8 @@ your Review will make that happen.'"
 "She actually said that? Really? In public? Perhaps we can get some of
 the customers to corroborate?"
 
- "I did one step better. I taped the whole conversation on my phone."\
- "You did what? What possessed you to do that?"
+"I did one step better. I taped the whole conversation on my phone."\
+"You did what? What possessed you to do that?"
 
 "I knew that no matter what I said, the meeting on Tuesday wouldn't go
 my way. I just knew. I wanted some evidence."
@@ -12071,7 +12068,7 @@ drawer."
 
 "I promise I won't use it until Rachel's home."
 
- "Can I get that in writing?"
+"Can I get that in writing?"
 
 Alexander devoured his portabella mushroom room. "This is the best I've
 ever had!"
@@ -12332,33 +12329,33 @@ fact, I knew every word. Even so, I was struck by its temerity, its
 self-assuredness, its self-satisfying finality, its almost-convincing
 self-worth, its exoneration:
 
- Forcing me to be a man was like asking someone to be a nuclear
- engineer who knew nothing of the subject, only because society needed
- one, and only to please others. No one asked me before I was born, no
- one asked when I was young. Everyone assumed that just because I was
- born a male, I would be happy and content, as if I had a choice.
+Forcing me to be a man was like asking someone to be a nuclear
+engineer who knew nothing of the subject, only because society needed
+one, and only to please others. No one asked me before I was born, no
+one asked when I was young. Everyone assumed that just because I was
+born a male, I would be happy and content, as if I had a choice.
 
- I don't care if there's an afterlife, but if so or if I'm born again
- or some stupid thing like that, then I ask God that since He screwed
- me up in this life, that in the next I'm [either]{.ul} male or female
- but not both and with no desire to be the other.
+I don't care if there's an afterlife, but if so or if I'm born again
+or some stupid thing like that, then I ask God that since He screwed
+me up in this life, that in the next I'm [either]{.ul} male or female
+but not both and with no desire to be the other.
 
- And for everyone who never could accept me---my very existence
- disrupting your peace, your normalcy, embarrassing you, causing
- discomfort and loathing, blurring your God-given distinction between
- male and female---I'm glad that you are finally released from me, that
- you never have to see me again, that you can go on with your lives, as
- if I never existed.
+And for everyone who never could accept me---my very existence
+disrupting your peace, your normalcy, embarrassing you, causing
+discomfort and loathing, blurring your God-given distinction between
+male and female---I'm glad that you are finally released from me, that
+you never have to see me again, that you can go on with your lives, as
+if I never existed.
 
- I don't want any ceremony. I don't want anyone to know about me. I
- don't want anyone to know that I cried or listened or sang or laughed.
+I don't want any ceremony. I don't want anyone to know about me. I
+don't want anyone to know that I cried or listened or sang or laughed.
 
- Joanna and Alexander, I am sorry. That sounds so terribly stupid.
- Doesn't it? But I hope one day you can forgive me and that we meet
- again in a peaceful, happy place. I pray for forgiveness and
- acceptance.
+Joanna and Alexander, I am sorry. That sounds so terribly stupid.
+Doesn't it? But I hope one day you can forgive me and that we meet
+again in a peaceful, happy place. I pray for forgiveness and
+acceptance.
 
- And please don't feel sad. I'm finally happy now. I know that.
+And please don't feel sad. I'm finally happy now. I know that.
 
 Why did I find happiness and Rachel didn't? Why does this wonderful man
 love me for who I am? Why did everyone who really mattered to
@@ -12485,8 +12482,8 @@ with another man. Is that what you really want?"
 
 "Is Dad there?"
 
- "You think he wants to speak with you? He's even more heartbroken than
- me. You've
+"You think he wants to speak with you? He's even more heartbroken than
+me. You've
 
 aged us beyond our years. You can call yourself Rachel or whoever the
 hell you want, but that will never change who you are. I want my son
@@ -12574,20 +12571,20 @@ General and do whatever he wants, as long as he doesn't touch the will.
 That means there's no conflict of interest when you run for AFL-CIO
 president. I'll get an annual stipend, twice my salary."
 
- "You never talked about this---at least with me? So how could you have
- lied about it?"
+"You never talked about this---at least with me? So how could you have
+lied about it?"
 
- "Alexander, I didn't cut myself off from my father's will: That's what
- I lied about."
+"Alexander, I didn't cut myself off from my father's will: That's what
+I lied about."
 
 "What? I don't understand?"
 
- "There's nothing to understand. I might be an honest friggin'
- bastard---but not a stupid
+"There's nothing to understand. I might be an honest friggin'
+bastard---but not a stupid
 
 one."
 
- "I don't get it.
+"I don't get it.
 
 "I will explain, but first, why'd you come back that Sunday afternoon?"
 she asked, with flirting big brown eyes. "In the rain, in the woods?"
@@ -12667,10 +12664,10 @@ I frowned. "You want me to wear a wedding dress?"
 "If that's what you want, Alexander Morgan." She giggled. "But would it
 be white?"
 
- "I'm going with a tuxedo. And *you* can't technically wear a white
- dress?"\
- "I've only had sex with my husband, so I can wear whatever color I
- want; and besides,
+"I'm going with a tuxedo. And *you* can't technically wear a white
+dress?"\
+"I've only had sex with my husband, so I can wear whatever color I
+want; and besides,
 
 that's an old wives' tale."
 
