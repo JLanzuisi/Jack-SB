@@ -25,7 +25,14 @@ The book uses the KOMA-Script book class.
 The `docx` file is the draft of the book that the
 author made. It is where the markdown files are taken from.
 
+Epub specific files `epub-*` are used by pandoc to
+style the epub, add metadata, etc.
+
 ## Building
+
+The building process is based on a Makefile,
+this means that the `make` program needs to be
+available. For the details, look at the Makefile.
 
 ### Epub
 
