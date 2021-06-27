@@ -9,7 +9,7 @@ At school I had made my grandfather a nice birthday card out of yellow
 construction paper, and with a red marker had sprawled in my neatest
 script,
 
-HAPPY BIRTHDAY TO THE BEST GRANDFATHER IN THE WHOLE WORLD!!
+> HAPPY BIRTHDAY TO THE BEST GRANDFATHER IN THE WHOLE WORLD!!
 
 I had crossed out 'WORLD' and replaced it with 'UNIVERSE.' But instead
 of gluing a photograph, I drew a picture of us; I knew that he'd
