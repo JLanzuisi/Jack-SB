@@ -20,7 +20,7 @@ MDSRC= chapters/ch(0).md chapters/ch(1).md chapters/ch(2).md chapters/ch(3).md c
 pdf: Main.tex body.tex preamble.tex
 	$(LATEXCMD) $(LATEXFLAGS) Main.tex
 
-body.tex:
+body.tex: $(MDSRC)
 	$(PANDOC) $(TEXPANDOCFLAGS) $(MDSRC) -o body.tex
 
 epub:
