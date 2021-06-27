@@ -1,3 +1,4 @@
+\hfuzz=1pt
 \overfullrule=2cm % Make overfull rule more visible
 
 % Language.
@@ -9,8 +10,13 @@
     Path=typefaces/Reforma1918/,
     Numbers={OldStyle,Proportional}
 }
-\setmainfont{Reforma1918-Gris.otf}
-\newfontfamily{\lightfont}[ItalicFont=Reforma1918-BlancaItalica.otf]{Reforma1918-Blanca.otf}
+\setmainfont[
+    ItalicFont=Reforma1918-GrisItalica,
+    BoldFont=Reforma1918-Negra,
+]{Reforma1918-Gris.otf}
+\newfontfamily{\lightfont}[
+    ItalicFont=Reforma1918-BlancaItalica.otf
+]{Reforma1918-Blanca.otf}
 \linespread{1.08}
 
 \frenchspacing
@@ -43,3 +49,6 @@
 
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,allcolors=black}
+
+\newcommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
