@@ -155,7 +155,7 @@ because my hands were gooey, although I didn't remember eating.  
 "Sometimes boys say things they don't really mean," my grandfather said,
 handing me a napkin. "Sometimes they say things without thinking,
 especially when together. Sometimes they say things that they'd never
-say alone, just to please their friends. It's natural for boys to. . ."
+say alone, just to please their friends. It's natural for boys to..."
 
 I saw my mother peeking from behind our living room curtain, smiling,
 watching me play touch football with the neighborhood boys. I was the

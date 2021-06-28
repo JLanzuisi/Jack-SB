@@ -184,7 +184,7 @@ For a split second I thought I saw a modicum of understanding.
 
 Couples around us were smiling, talking, eating, celebrating. I felt
 like I was going to throw up. I slouched forward, fidgeting my knife; my
-voice subdued. "Everything. . . jackets, jeans... underwear. . . even a
+voice subdued. "Everything... jackets, jeans... underwear... even a
 Fu Manchu."
 
 "A Fu Manchu? Why?"
