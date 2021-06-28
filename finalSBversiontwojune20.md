@@ -10011,11 +10011,8 @@ comfort food? A basic dish cooked with flair? Here's how I made it;
 nothing intricate by any means:
 
 -   First marinate the steak in soy sauce, dry mustard, and apple cider.
-
 -   Grill it medium rare, basting it with a soy/ginger/ketchup mix.
-
 -   Slice it very thin.
-
 -   Serve it with grilled baby bok choy (large is too chewy), Japanese
    noodles splashed with red pepper flakes and sweet cider, and roasted
    red potatoes in olive oil and sea salt.
