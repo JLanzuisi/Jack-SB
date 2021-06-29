@@ -17,13 +17,14 @@
 \newfontfamily{\lightfont}[
     ItalicFont=Reforma1918-BlancaItalica.otf
 ]{Reforma1918-Blanca.otf}
-\linespread{1.08}
+\linespread{1.12}
 
 \frenchspacing
 
 \usepackage{microtype}
 
 \KOMAoptions{
+    draft = false,
     paper = a5,
     BCOR = 8.25mm,
     twoside = true,
@@ -32,8 +33,11 @@
     chapterprefix = true,
     headings = small,
     numbers = noendperiod,
+    headsepline = true,
     DIV = calc,
 }
+
+\usepackage{scrlayer}
 
 \setkomafont{disposition}{\normalcolor}
 \setkomafont{part}{\fontsize{22}{22}\selectfont}
@@ -55,3 +59,7 @@
 
 \newcommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\newcommand{\titlemark}{\markright{Swimming Backwards}}
+
+\hyphenation{mo-ther/dau-ther “Your-s?” "Ra-chel}
