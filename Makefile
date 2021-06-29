@@ -1,8 +1,8 @@
-LATEXCMD= latexmk
+LATEX= latexmk
 LATEXFLAGS= -lualatex -output-directory=out
 PANDOC= pandoc
 TEXPANDOCFLAGS= -r markdown-auto_identifiers --top-level-division=part
-EPUBPANDOCFLAGS= --epub-embed-font="typefaces/Reforma1918/*" --number-sections \
+EPUBPANDOCFLAGS= --epub-embed-font="typefaces/Reforma1918/*" \
 	--css=epub-style.css
 MDSRC= chapters/ch(0).md chapters/ch(1).md chapters/ch(2).md chapters/ch(3).md chapters/ch(4).md \
 	chapters/ch(5).md chapters/ch(6).md chapters/ch(7).md chapters/ch(8).md chapters/ch(9).md \
@@ -18,7 +18,7 @@ MDSRC= chapters/ch(0).md chapters/ch(1).md chapters/ch(2).md chapters/ch(3).md c
 	chapters/ch(55).md chapters/ch(56).md chapters/ch(57).md chapters/ch(58).md
 
 pdf: Main.tex body.tex preamble.tex
-	$(LATEXCMD) $(LATEXFLAGS) Main.tex
+	$(LATEX) $(LATEXFLAGS) Main.tex
 
 body.tex: $(MDSRC)
 	$(PANDOC) $(TEXPANDOCFLAGS) $(MDSRC) -o body.tex
