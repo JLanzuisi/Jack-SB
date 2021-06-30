@@ -16,6 +16,7 @@ MDSRC= chapters/ch(0).md chapters/ch(1).md chapters/ch(2).md chapters/ch(3).md c
 	chapters/ch(45).md chapters/ch(46).md chapters/ch(47).md chapters/ch(48).md chapters/ch(49).md \
 	chapters/ch(50).md chapters/ch(51).md chapters/ch(52).md chapters/ch(53).md chapters/ch(54).md \
 	chapters/ch(55).md chapters/ch(56).md chapters/ch(57).md chapters/ch(58).md
+EPUBMD= epub-metadata.md epub-toc.md
 
 pdf: Main.tex body.tex preamble.tex
 	$(LATEX) $(LATEXFLAGS) Main.tex
@@ -24,7 +25,7 @@ body.tex: $(MDSRC)
 	$(PANDOC) $(TEXPANDOCFLAGS) $(MDSRC) -o body.tex
 
 epub:
-	$(PANDOC) $(EPUBPANDOCFLAGS) epub-metadata.md $(MDSRC) -o main.epub
+	$(PANDOC) $(EPUBPANDOCFLAGS) $(EPUBMD) $(MDSRC) -o main.epub
 
 .PHONY: clean
 
