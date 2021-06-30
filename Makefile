@@ -2,8 +2,8 @@ LATEX= latexmk
 LATEXFLAGS= -lualatex -output-directory=out
 PANDOC= pandoc
 TEXPANDOCFLAGS= -r markdown-auto_identifiers --top-level-division=part
-EPUBPANDOCFLAGS= --epub-embed-font="typefaces/Reforma1918/*" \
-	--css=epub-style.css
+EPUBPANDOCFLAGS= --epub-embed-font="typefaces/Reforma1918/webfonts/*" \
+	--css=epub-style.css --epub-chapter-level=2
 MDSRC= chapters/ch(0).md chapters/ch(1).md chapters/ch(2).md chapters/ch(3).md chapters/ch(4).md \
 	chapters/ch(5).md chapters/ch(6).md chapters/ch(7).md chapters/ch(8).md chapters/ch(9).md \
 	chapters/ch(10).md chapters/ch(11).md chapters/ch(12).md chapters/ch(13).md chapters/ch(14).md \
