@@ -86,6 +86,7 @@ h1 {
 h2 {
     text-transform: uppercase;
     letter-spacing: 2.5pt;
+    font-size: 1.5em;
     line-height: 130%;
     font-weight: 300;
 }
