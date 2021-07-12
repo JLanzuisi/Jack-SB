@@ -3,7 +3,7 @@ LATEXFLAGS= -lualatex -output-directory=out
 PANDOC= pandoc
 TEXPANDOCFLAGS= -r markdown-auto_identifiers --top-level-division=part
 EPUBPANDOCFLAGS= --epub-embed-font="typefaces/Reforma1918/webfonts/*" \
-	--css=epub-style.css --epub-chapter-level=2
+	--css=epub-style.css --epub-chapter-level=2 --number-sections
 MDSRC= chapters/ch0.md chapters/ch1.md chapters/ch2.md chapters/ch3.md chapters/ch4.md \
 	chapters/ch5.md chapters/ch6.md chapters/ch7.md chapters/ch8.md chapters/ch9.md \
 	chapters/ch10.md chapters/ch11.md chapters/ch12.md chapters/ch13.md chapters/ch14.md \
@@ -26,6 +26,8 @@ body.tex: $(MDSRC)
 
 epub:
 	$(PANDOC) $(EPUBPANDOCFLAGS) $(EPUBMD) $(MDSRC) -o main.epub
+
+both: pdf epub
 
 .PHONY: clean
 

@@ -60,7 +60,7 @@
     text-rendering: optimizeLegibility;
 }
 
-/* GENERAL BOOK CSS */
+/* GENERAL BOOK STYLING */
 
 body {
     font-family: Reforma1969;
@@ -89,6 +89,7 @@ h2 {
     font-size: 1.5em;
     line-height: 130%;
     font-weight: 300;
+    font-variant-numeric: lining-nums;
 }
 
 h3 {
