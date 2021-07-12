@@ -1,6 +1,6 @@
 # Introduction {-}
 
-## Joanna Turnus
+## Joanna Turnus {-}
 \titlemark
 
 I could have confessed to Alexander in the North End, Faneuil Hall, the

@@ -3,7 +3,6 @@
 
 I tapped the welder's shoulder, asking if he wanted anything for coffee
 break.
-
 He propped up his mask just above his nose, bracing it with his
 forefinger. "Just a small coffee." He handed me a ten-dollar bill.
 "Black. And an English muffin. Buttered."

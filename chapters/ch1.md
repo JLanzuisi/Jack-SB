@@ -1,4 +1,4 @@
-# Book One {-}
+# Book One
 
 ## Joanna Turnus
 \titlemark

@@ -112,4 +112,4 @@ I treaded water for a bit, catching my breath; then alligator-like,
 skimmed the surface towards the raft. I pulled myself up, washed away
 the seagull turds and sat down on the gristly surface. An enveloping
 peace infused me. I curled up and drifted asleep, seduced by the distant
-foghorns: one loud, one soft ...one loud, one soft.
+foghorns: one loud, one soft... one loud, one soft.

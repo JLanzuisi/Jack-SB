@@ -16,9 +16,7 @@ Nick, lighting a cigarette.
  "Who'd you piss off now?" asked Gary. "The Carpenters' BA?"
 
  "Our guys use more sophisticated tactics," Nick said, exhaling smoke
- in my face. "Like
-
-cutting your ladder in half with a Skil-Saw."
+ in my face. "Like cutting your ladder in half with a Skil-Saw."
 
  "He was from the mafia," Paul replied, "asking me to work for him."
 
@@ -27,16 +25,12 @@ cutting your ladder in half with a Skil-Saw."
  "They must be really scraping the bottom of the barrel," said Abe.
 
  "In a year I'd triple my salary," said Paul. "Although I'd have to
- start at the
-
-bottom."
+ start at the bottom."
 
  "And end up at the bottom of the harbor," added Abe.
 
  "At least you won\'t have to worry about no goddamned pension or
- health benefits," Nick
-
-said.
+ health benefits," Nick said.
 
 "It's the only goddamned job in the world where you can say no to your
 boss and get away with it," Abe said, pretending to talk into a phone:
