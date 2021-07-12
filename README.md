@@ -34,10 +34,13 @@ The building process is based on a Makefile,
 this means that the `make` program needs to be
 available. For the details, look at the Makefile.
 
+If you want to make both the epub and the PDF
+run `make both`.
+
 ### Epub
 
 The epub is produced from the markdown files
-using `pandoc`. Evidently, pandoc is a dependency.
+using `pandoc`.
 
 To make the epub, type `make epub`.
 
