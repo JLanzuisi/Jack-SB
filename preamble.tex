@@ -51,11 +51,12 @@
     \addfontfeature{LetterSpace=4.0}\MakeUppercase{#3}%
 }
 
-\setcounter{chapter}{-1}
-\setcounter{part}{-1}
-
-\DeclareTOCStyleEntry[beforeskip=2.5pt]{tocline}{chapter}
 \setcounter{tocdepth}{\parttocdepth}
+\RedeclareSectionCommand[
+  %tocnumwidth=0pt,
+  tocentrynumberformat=\gobbleentrynumber
+]{part}
+\newcommand*\gobbleentrynumber[1]{}
 
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,allcolors=black}
