@@ -32,4 +32,4 @@ both: pdf epub
 .PHONY: clean
 
 clean:
-	rm body.tex main.epub
+	rm body.tex out/*
