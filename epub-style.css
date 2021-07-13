@@ -65,7 +65,7 @@
 body {
     font-family: Reforma1969;
     text-align: justify;
-    line-height: 135%;
+    line-height: 145%;
     padding-top: 5%;
     padding-bottom: 5%;
     padding-left: 15%;
@@ -81,6 +81,7 @@ h1 {
     font-size: 2em;
     font-weight: 300;
     font-style: italic;
+    font-variant-numeric: lining-nums;
 }
 
 h2 {
