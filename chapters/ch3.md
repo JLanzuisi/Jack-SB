@@ -138,9 +138,8 @@ was still talking to the waitress.
 
 "Disgusting," the boys said.  
 
- I knew my grandfather heard, although he pretended not. His smile
- disappeared, that's
-
+I knew my grandfather heard, although he pretended not. His smile
+disappeared, that's
 how I knew. I wished the brook was deeper and carried to the ocean. I
 imagined swimming backwards, my ears submerged, listening to the water,
 arms slicing, legs kicking, immersed in my hidden world.

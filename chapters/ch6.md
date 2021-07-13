@@ -172,7 +172,6 @@ can *think* of shit to invent. No wonder all your ideas suck."
 
  "How about a video?" I suggested. "Paul busting his skinny ass,
  manually snapping off
-
 each rod, taking all day just for one, then Gary snapping, not even
 breaking a sweat."
 

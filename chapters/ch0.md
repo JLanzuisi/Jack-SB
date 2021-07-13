@@ -99,11 +99,10 @@ At the sink I let the water run cold, dabbing my forehead with a cool
 paper towel, surprised at how pretty and feminine I looked, surprised at
 how confident I appeared.
 
- "This is the men's room," interrupted a stern masculine voice.
+"This is the men's room," interrupted a stern masculine voice.
 
- I lightly screamed, turning to find a young man, kind of cute, his
- baritone voice not
-
+I lightly screamed, turning to find a young man, kind of cute, his
+baritone voice not
 matching his youthful appearance, silently inspecting every inch of my
 body, silently inquiring why I was in the men's room.
 
