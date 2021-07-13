@@ -16,14 +16,15 @@ The chapters are in markdown files.
 The `Main.tex` file is the main file
 for the pdf and the one targeted by `latexmk`.
 The `out` directory contains the output of running LaTeX,
-including the pdf file.
+including the pdf file, and also the output of pandoc
+(the epub).
 
 The `preamble.tex` file holds the TeX preamble:
 packages, classes, custom command, etc.
 The book uses the KOMA-Script book class.
 
-The `docx` file is the draft of the book that the
-author made. It is where the markdown files are taken from.
+The draft files, provided by the author, are
+in the draft folder.
 
 Epub specific files `epub-*` are used by pandoc to
 style the epub, add metadata, etc.

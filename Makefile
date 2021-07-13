@@ -25,7 +25,7 @@ body.tex: $(MDSRC)
 	$(PANDOC) $(TEXPANDOCFLAGS) $(MDSRC) -o body.tex
 
 epub:
-	$(PANDOC) $(EPUBPANDOCFLAGS) $(EPUBMD) $(MDSRC) -o main.epub
+	$(PANDOC) $(EPUBPANDOCFLAGS) $(EPUBMD) $(MDSRC) -o out/main.epub
 
 both: pdf epub
 
