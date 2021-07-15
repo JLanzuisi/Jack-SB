@@ -62,55 +62,44 @@
 
 /* GENERAL BOOK STYLING */
 
+body {
+    font-family: Reforma1969;
+    text-align: justify;
+    line-height: 145%;
+}
+
 @media (max-width: 1400px) {
     body {
-        font-family: Reforma1969;
-        text-align: justify;
-        line-height: 145%;
-        max-width: 40vw;
+        max-width: 35em;
         padding-top: 5%;
         padding-bottom: 5%;
         padding-left: 10%;
-        /* padding-right: 15%; */
     }
 }
 
 @media (min-width: 800px) and (max-width: 1400px) {
     body {
-        font-family: Reforma1969;
-        text-align: justify;
-        line-height: 145%;
-        max-width: 45vw;
+        max-width: 35em;
         padding-top: 5%;
         padding-bottom: 5%;
         padding-left: 10%;
-        /* padding-right: 15%; */
     }
 }
 
 @media (min-width: 400px) and (max-width: 800px) {
     body {
-        font-family: Reforma1969;
-        text-align: justify;
-        line-height: 145%;
-        max-width: 60vw;
+        max-width: 65vw;
         padding-top: 5%;
         padding-bottom: 5%;
         padding-left: 10%;
-        /* padding-right: 15%; */
     }
 }
 
 @media (max-width: 400px) {
     body {
-        font-family: Reforma1969;
-        text-align: justify;
-        line-height: 145%;
-        max-width: 80vw;
+        max-width: 95vw;
         padding-top: 5%;
         padding-bottom: 5%;
-        padding-left: 10%;
-        /* padding-right: 15%; */
     }
 }
 
@@ -150,8 +139,4 @@ p {
 a {
     color: darkred;
     text-decoration-line: none;
-}
-
-blockquote {
-    text-indent: 0pt;
 }
