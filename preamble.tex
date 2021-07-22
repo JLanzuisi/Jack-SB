@@ -24,7 +24,7 @@
 \usepackage{microtype}
 
 \KOMAoptions{
-    draft = true,
+    draft = false,
     paper = a5,
     BCOR = 8.25mm,
     twoside = true,
@@ -40,7 +40,7 @@
 \usepackage{scrlayer}
 
 \setkomafont{disposition}{\normalcolor}
-\setkomafont{part}{\fontsize{22}{22}\selectfont}
+\setkomafont{part}{\fontsize{30}{32}\selectfont}
 
 \renewcommand\chapterlineswithprefixformat[3]{%
     \lightfont%
@@ -48,15 +48,19 @@
 }
 \renewcommand\partlineswithprefixformat[3]{%
     \lightfont\itshape%
-    \addfontfeature{LetterSpace=4.0}\MakeUppercase{#3}%
+    \MakeUppercase{#3}%
 }
 
 \setcounter{tocdepth}{\parttocdepth}
 \RedeclareSectionCommand[
-  %tocnumwidth=0pt,
-  tocentrynumberformat=\gobbleentrynumber
+  tocnumwidth=0pt,
+  tocnumsep=0pt,
+  tocindent=0pt,
+  tocentrynumberformat=\gobbleentrynumber,
+  tocraggedpagenumber=true,
+  toclinefill=\hspace{1em},
 ]{part}
-\newcommand*\gobbleentrynumber[1]{}
+\newcommand*\gobbleentrynumber[1]{\hspace{-1.1em}}
 
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,allcolors=black}
