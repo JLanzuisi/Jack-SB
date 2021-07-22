@@ -115,6 +115,11 @@ h1 {
     font-variant-numeric: lining-nums;
 }
 
+h1.bookpart::first-letter {
+    background-color: white;
+    color: white;
+}
+
 h2 {
     text-transform: uppercase;
     letter-spacing: 2.5pt;
@@ -122,6 +127,10 @@ h2 {
     line-height: 130%;
     font-weight: 300;
     font-variant-numeric: lining-nums;
+}
+
+h2 + p {
+	text-indent: 0em;
 }
 
 h3 {
@@ -139,4 +148,8 @@ p {
 a {
     color: darkred;
     text-decoration-line: none;
+}
+
+blockquote + p {
+	text-indent: 0em;
 }
