@@ -6,7 +6,9 @@ respectively.
 
 ## Getting the book
 
-The final version of the pdf and epub can be found in the releases.
+"Final" versions of the pdf and epub can be found in the releases.
+
+Non-release versions are in the `out` directory.
 
 ## Structure
 
