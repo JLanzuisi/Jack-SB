@@ -44,7 +44,7 @@ To make the epub, type `make epub`.
 ### PDF
 
 The build process relies on `latexmk` and luaLaTeX. A TeX distribution 
-(MikTeX was used here) is required, of course, as are all the packages 
+(MikTeX and TeXlive were tested here) is required, of course, as are all the packages 
 invoked by `\usepackage`.
 
 The book's typefaces are those in the Reforma family by Pampatype. 
@@ -55,7 +55,7 @@ To make the pdf, run `make` or `make pdf`.
 ## License
 
 Usage or distribution of any book file must have prior permission. 
-*Any used of the files without permission is forbidden*.
+*Any use of the files without permission is forbidden*.
 
 The typefaces are under a creative commons license:
 
