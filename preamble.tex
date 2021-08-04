@@ -28,7 +28,7 @@
     paper = 5in:8in,
     BCOR = 8.25mm,
     twoside = true,
-    fontsize = {9},
+    fontsize = {11},
     toc = left,
     chapterprefix = true,
     headings = small,
@@ -36,7 +36,7 @@
     headsepline = true,
     footinclude = true,
     headinclude = true,
-    DIV = calc,
+    DIV = 20,
 }
 
 \usepackage{scrlayer}
@@ -50,7 +50,7 @@
 }
 \renewcommand\partlineswithprefixformat[3]{%
     \lightfont\itshape%
-    \MakeUppercase{#3}%
+    \addfontfeature{LetterSpace=2.0}\MakeUppercase{#3}%
 }
 
 \setcounter{tocdepth}{\parttocdepth}
