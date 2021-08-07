@@ -12,6 +12,7 @@ script,
 
 > HAPPY BIRTHDAY TO THE BEST GRANDFATHER IN THE WHOLE WORLD!!
 
+\noindent
 I had crossed out 'WORLD' and replaced it with 'UNIVERSE.' But instead
 of gluing a photograph, I drew a picture of us; I knew that he'd
 appreciate that more.
