@@ -1,10 +1,11 @@
-\hfuzz=1pt
-\overfullrule=2cm % Make overfull rule more visible
+\hfuzz=1pt % Don't complain of overfull boxes by less than 1pt.
+\overfullrule=2cm % Make overfull rule more visible.
 
-% Language.
+% Language support.
 \usepackage{polyglossia}
 \setdefaultlanguage{english}
 
+% Font setup.
 \usepackage{fontspec}
 \defaultfontfeatures{
     Path=typefaces/Reforma1918/,
@@ -14,32 +15,34 @@
     ItalicFont=Reforma1918-GrisItalica,
     BoldFont=Reforma1918-Negra,
 ]{Reforma1918-Gris.otf}
-\newfontfamily{\lightfont}[
+\newfontfamily{\lightfont}[ % Typeface for headings
     ItalicFont=Reforma1918-BlancaItalica.otf
 ]{Reforma1918-Blanca.otf}
+% Line spacing multiplication factor
 \linespread{1.05}
 
-\frenchspacing
+\frenchspacing % Don't add extra space after periods
 
-\usepackage{microtype}
+\usepackage{microtype} % Microtypografic enhancements
 
+% Global class options.
 \KOMAoptions{
     draft = false,
     paper = 5in:8in,
-    BCOR = 8.25mm,
+    BCOR = 8.25mm, % Binding correction
     twoside = true,
     fontsize = {11},
-    toc = left,
-    chapterprefix = true,
+    toc = left, % ToC Style
+    chapterprefix = true, % Add "chapter" prefix
     headings = small,
     numbers = noendperiod,
-    headsepline = true,
-    footinclude = true,
-    headinclude = true,
-    DIV = 20,
+    headsepline = true, % Header line
+    footinclude = true, % Include footer in type area
+    headinclude = true, % Include header in type area
+    DIV = 20, % Type area size, for an explanation look at Koma-Script guide
 }
 
-\usepackage{lengthconvert}
+\usepackage{lengthconvert} % For the dimensions page
 \usepackage{showframe}
 
 \usepackage{scrlayer}
@@ -56,7 +59,8 @@
     \addfontfeature{LetterSpace=2.0}\MakeUppercase{#3}%
 }
 
-\setcounter{tocdepth}{\parttocdepth}
+\setcounter{tocdepth}{\parttocdepth} % Only show parts in ToC
+% Style of part entries in ToC
 \RedeclareSectionCommand[
   tocnumwidth=0pt,
   tocnumsep=0pt,
@@ -65,14 +69,15 @@
   tocraggedpagenumber=true,
   toclinefill=\hspace{1em},
 ]{part}
-\newcommand*\gobbleentrynumber[1]{\hspace{-1.1em}}
+\newcommand*\gobbleentrynumber[1]{\hspace{-1.1em}} % See tocentrynumberformat above
 
-\usepackage{hyperref}
+% Hyperlinks
+\usepackage{hyperref} 
 \hypersetup{colorlinks=true,allcolors=black}
 
+% Tighter lists osed by pandoc
 \newcommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
+% Handy command to add book title to header
 \newcommand{\titlemark}{\markright{Swimming Backwards}}
-
-\hyphenation{mo-ther/dau-gh-ter}
