@@ -48,16 +48,20 @@
 \usepackage{scrlayer}
 
 \setkomafont{disposition}{\normalcolor}
-\setkomafont{part}{\fontsize{27}{27}\selectfont}
+\setkomafont{part}{\fontsize{25}{25}\selectfont}
 
 \renewcommand\chapterlineswithprefixformat[3]{%
     \lightfont%
-    #2\LARGE\addfontfeature{LetterSpace=4.0}\MakeUppercase{#3}%
+    #2\LARGE #3%
 }
 \renewcommand\partlineswithprefixformat[3]{%
     \lightfont\itshape%
-    \addfontfeature{LetterSpace=2.0}\MakeUppercase{#3}%
+    \MakeUppercase{#3}%
 }
+
+\setkomafont{title}{\lightfont}
+\setkomafont{author}{\large\itshape}
+\setkomafont{publishers}{\normalsize}
 
 \setcounter{tocdepth}{\parttocdepth} % Only show parts in ToC
 % Style of part entries in ToC
@@ -72,12 +76,13 @@
 \newcommand*\gobbleentrynumber[1]{\hspace{-1.1em}} % See tocentrynumberformat above
 
 % Hyperlinks
-\usepackage{hyperref} 
+\usepackage{hyperref}
 \hypersetup{colorlinks=true,allcolors=black}
 
-% Tighter lists osed by pandoc
+% Tighter lists used by pandoc
 \newcommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}
+}
 
 % Handy command to add book title to header
 \newcommand{\titlemark}{\markright{Swimming Backwards}}

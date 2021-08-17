@@ -1,4 +1,4 @@
-% This is the main for that typesets SB, it uses the Koma-Script book class
+% This is the main TeX file that typesets SB, it uses the Koma-Script book class
 % and the packages in the preamble file. Everything else is self-explanatory.
 % Look at the Makefile for more info
 
@@ -8,8 +8,16 @@
 
 \author{Jack Reardon}
 \title{Swimming Backwards}
-\subtitle{A Novel}
-\publishers{}
+\date{}
+\publishers{Evolutesix}
+\extratitle{
+\begin{center}
+\large\addfontfeatures{LetterSpace=7}
+SWIMMING BACKWARDS
+\end{center}
+}
+\uppertitleback{Copyright, publisher, information page}
+\dedication{This is the dedication}
 
 \begin{document}
 
@@ -28,9 +36,9 @@ Paper height: \Convert[unit=in]{\the\paperheight}\\
 Baseline skip: \\
 \normalsize\the\baselineskip\\
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tristique
-elit ac sodales varius. Duis vulputate viverra sem, hendrerit euismod nisi 
-elementum nec. Donec faucibus elementum enim, et consectetur magna elementum ut. 
-Phasellus varius pretium lectus vel ullamcorper. Praesent eget quam vitae libero 
+elit ac sodales varius. Duis vulputate viverra sem, hendrerit euismod nisi
+elementum nec. Donec faucibus elementum enim, et consectetur magna elementum ut.
+Phasellus varius pretium lectus vel ullamcorper. Praesent eget quam vitae libero
 dapibus aliquet nec nec elit.
 \end{center}
 
