@@ -16,13 +16,19 @@ MDSRC= chapters/ch0.md chapters/ch1.md chapters/ch2.md chapters/ch3.md chapters/
 	chapters/ch45.md chapters/ch46.md chapters/ch47.md chapters/ch48.md chapters/ch49.md \
 	chapters/ch50.md chapters/ch51.md chapters/ch52.md chapters/ch53.md chapters/ch54.md \
 	chapters/ch55.md chapters/ch56.md chapters/ch57.md chapters/ch58.md
-EPUBMD= epub-metadata.md epub-toc.md
+EPUBMD= dedication.md copy-info.md epub-metadata.md epub-toc.md
 
 pdf: Main.tex body.tex preamble.tex
 	$(LATEX) $(LATEXFLAGS) Main.tex
 
-body.tex: $(MDSRC)
+body.tex: $(MDSRC) dedication.tex copy-info.tex
 	$(PANDOC) $(TEXPANDOCFLAGS) $(MDSRC) -o body.tex
+
+dedication.tex: dedication.md
+	$(PANDOC) $(TEXPANDOCFLAGS) dedication.md -o dedication.tex
+
+copy-info.tex: copy-info.md
+	$(PANDOC) $(TEXPANDOCFLAGS) copy-info.md -o copy-info.tex
 
 epub:
 	$(PANDOC) $(EPUBPANDOCFLAGS) $(EPUBMD) $(MDSRC) -o out/main.epub
@@ -32,4 +38,4 @@ both: pdf epub
 .PHONY: clean
 
 clean:
-	rm body.tex out/*
+	rm body.tex dedication.tex copy-info.tex out/*
