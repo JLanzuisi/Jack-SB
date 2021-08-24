@@ -23,6 +23,7 @@ pdf: Main.tex body.tex preamble.tex
 
 body.tex: $(MDSRC) dedication.tex copy-info.tex
 	$(PANDOC) $(TEXPANDOCFLAGS) $(MDSRC) -o body.tex
+	sed -i "/^\\\part\*{Introduction}/c\\\\\part\*{Introduc\\\kern1pt tion}" body.tex
 
 dedication.tex: dedication.md
 	$(PANDOC) $(TEXPANDOCFLAGS) dedication.md -o dedication.tex
