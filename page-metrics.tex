@@ -8,10 +8,12 @@ text width: \convert[unit=cm]{\the\textwidth}
 
 \medskip
 text height (approx, including header \& footer):\\
-{\large
+{
+\large
 \convert[unit=cm]{\the\textheight} + \convert[unit=cm]{\the\headheight} +
 \convert[unit=cm]{\the\headsep}  + \convert[unit=cm]{\the\footskip} +
-\convert[unit=cm]{\the\topskip}}
+\convert[unit=cm]{\the\topskip}
+}
 
 \medskip
 paper width: \convert[unit=cm]{\the\paperwidth}

@@ -16,9 +16,7 @@ The chapters are in markdown files.
 
 The `Main.tex` file is the main file for the pdf and the one targeted 
 by `latexmk`. The `out` directory contains the output of running 
-LaTeX, including the pdf file, and also the output of pandoc (the 
-epub).
-
+LaTeX, including the pdf file, and also the epub. 
 The `preamble.tex` file holds the TeX preamble: packages, classes, 
 custom command, etc. The book uses the KOMA-Script book class.
 
@@ -26,6 +24,9 @@ The draft files, provided by the author, are in the draft folder.
 
 Epub specific files `epub-*` are used by pandoc to style the epub, add 
 metadata, etc.
+
+The dedication and copyright/information page have their own markdown
+files in the root directory.
 
 ## Building
 
@@ -55,7 +56,7 @@ To make the pdf, run `make` or `make pdf`.
 ## License
 
 Usage or distribution of any book file must have prior permission. 
-*Any use of the files without permission is forbidden*.
+**Any use of the files without permission is forbidden**.
 
 The typefaces are under a creative commons license:
 
