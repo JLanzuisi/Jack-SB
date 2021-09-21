@@ -32,9 +32,16 @@ files in the root directory.
 
 The building process is based on a Makefile, this means that the 
 `make` program needs to be available. For the details, look at the 
-Makefile.
+Makefile. 
 
 If you want to make both the epub and the PDF run `make both`.
+
+Some file post-processing uses powershell specific commands,
+in windows these are available by default while in Linux/Mac
+one has to install powershell core.
+
+Note that some variables in the Makefile need to be changed
+in order for the `make` command to run succesfully in Linux/Mac.
 
 ### Epub
 
