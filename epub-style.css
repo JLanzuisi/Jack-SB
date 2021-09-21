@@ -121,8 +121,6 @@ h1.bookpart::first-letter {
 }
 
 h2 {
-	text-transform: uppercase;
-	letter-spacing: 2.5pt;
 	font-size: 1.5em;
 	line-height: 130%;
 	font-weight: 300;
@@ -136,6 +134,11 @@ h2 + p {
 h3 {
 	font-style: italic;
 	font-weight: 500;
+}
+
+h4 {
+	font-size:100%;
+	font-weight:500;
 }
 
 p {
@@ -158,11 +161,14 @@ blockquote + p {
 	margin-top: 2cm;
 	margin-bottom: 1cm;
 	text-align: center;
+	font-size: 120%;
 }
 
 .copyinfo {
-	margin-top: 4cm;
-	font-size: 85%;
+	font-family:monospace;
+	margin-top: 2cm;
+	margin-bottom: 1cm;
+	font-size: 95%;
 }
 
 .author {
