@@ -16,8 +16,8 @@ MDSRC = chapters/ch0.md chapters/ch1.md chapters/ch2.md chapters/ch3.md chapters
 	chapters/ch40.md chapters/ch41.md chapters/ch42.md chapters/ch43.md chapters/ch44.md \
 	chapters/ch45.md chapters/ch46.md chapters/ch47.md chapters/ch48.md chapters/ch49.md \
 	chapters/ch50.md chapters/ch51.md chapters/ch52.md chapters/ch53.md chapters/ch54.md \
-	chapters/ch55.md chapters/ch56.md chapters/ch57.md chapters/ch58.md \
-	about-author-acknowledge.md
+	chapters/ch55.md chapters/ch56.md chapters/ch57.md chapters/ch58.md
+
 EPUBMD = dedication.md copy-info.md epub-metadata.md epub-toc.md
 
 pdf: Main.tex body.tex preamble.tex
@@ -25,11 +25,8 @@ pdf: Main.tex body.tex preamble.tex
 
 body.tex: $(MDSRC) dedication.tex copy-info.tex about-author-acknowledge.tex
 	$(PANDOC) $(TEXPANDOCFLAGS) $(MDSRC) -o body.tex
-#   Body post-processing using powershell cmdlets
-	$(POWERSHELL) -Command "((Get-Content -Path .\body.tex) \
-		-replace '^\\part\*{Introduction}','\part*{Introduc\kern1pt tion}' \
-		-replace '(^\\part{.*})','$$1\setcounter{chapter}{0}') \
-		| Set-Content -Path .\body.tex"
+#	Body post-processing using powershell cmdlets
+	$(POWERSHELL) body-postprocess.ps1
 
 dedication.tex: dedication.md
 	$(PANDOC) $(TEXPANDOCFLAGS) dedication.md -o dedication.tex
@@ -41,7 +38,7 @@ about-author-acknowledge.tex: about-author-acknowledge.md
 	$(PANDOC) $(TEXPANDOCFLAGS) about-author-acknowledge.md -o about-author-acknowledge.tex
 
 epub: $(MDSRC) $(EPUBMD)
-	$(PANDOC) $(EPUBPANDOCFLAGS) $(EPUBMD) $(MDSRC) -o out/main.epub
+	$(PANDOC) $(EPUBPANDOCFLAGS) $(EPUBMD) $(MDSRC) about-author-acknowledge.md -o out/main.epub
 
 both: pdf epub
 
