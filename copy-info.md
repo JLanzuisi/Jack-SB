@@ -33,7 +33,7 @@ No remixed, transformed, or derivative works may be distributed. This book is pr
 without warranty, neither explicit nor implicit.
 
 This book is published in at least one electronic form under the standard Evolutesix 
-Books pricing model of "donate what it is worth to you" to ensure the widest possible 
+Books pricing model of 'donate what it is worth to you' to ensure the widest possible 
 readership and usefulness. Donate via
 
 </div>
