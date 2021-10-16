@@ -116,7 +116,7 @@ cabinets. Guess who was chomping on an unlit cigar, looking up at me,
 armed with a water hose? Gary. I'm sure he had reserved this job days
 ago before anyone else even knew about it. Everyone says that he used to
 be a good laborer but that must have been years before his triple chin
-and large, protruding stomach.  
+and large, protruding stomach. 
 
 Why have two guys standing around waiting for nothing to happen? I
 clicked on my cell phone to call Phil and was surprised as hell to find
