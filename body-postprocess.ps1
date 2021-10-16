@@ -20,5 +20,6 @@
 	-replace 'Lawrence, one','\linebreak Lawrence, one' `
 	-replace 'Joanna wrapped herself','Joanna \linebreak wrapped herself' `
 	-replace "She's awake.","\linebreak She's awake." `
-	-replace 'parsley---','pars\-ley---'
+	-replace 'parsley---','pars\-ley---' `
+	-replace 'I wanted to say no,',"I wanted to say no,`n`n\enlargethispage{-2\baselineskip}" `
 )	| Set-Content -Path .\body.tex
