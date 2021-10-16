@@ -1,13 +1,11 @@
 <p style="page-break-after: always;"> </p>
 
 <div class=copyinfo>
-Hardcover ISBN:
+Paperback ISBN: 978-1-913629-15-1
 
-Paperback ISBN:
+e-book ISBN: 978-1-913629-16-8
 
-e-book ISBN:
-
-Copyright (C) Jack Reardon YEAR
+Copyright (C) Jack Reardon 2021
 
 The rights of Jack Reardon to be identified as the author of 
 this work has been asserted by him in accordance with the Copyright, Designs 
@@ -24,16 +22,5 @@ or otherwise, be lent, re-sold, hired out, or otherwise circulated without the
 publisher's prior consent in any form of binding or cover other than that in which 
 it is published and without a similar condition including this condition being 
 imposed on the subsequent purchaser.
-
-This book is licenced under Creative Commons CC BY-NC-ND, excluding any elements 
-from other copyrighted works. Consult this licence for details 
-<https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode>. You may make copies 
-of this book for non-commercial purposes, in unadapted form, with full attribution. 
-No remixed, transformed, or derivative works may be distributed. This book is provided 
-without warranty, neither explicit nor implicit.
-
-This book is published in at least one electronic form under the standard Evolutesix 
-Books pricing model of 'donate what it is worth to you' to ensure the widest possible 
-readership and usefulness. Donate via
 
 </div>
