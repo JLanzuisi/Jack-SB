@@ -21,5 +21,41 @@
 	-replace 'Joanna wrapped herself','Joanna \linebreak wrapped herself' `
 	-replace "She's awake.","\linebreak She's awake." `
 	-replace 'parsley---','pars\-ley---' `
-	-replace 'I wanted to say no,',"I wanted to say no,`n`n\enlargethispage{-2\baselineskip}" `
+	-replace 'I wanted to say no,',"\enlargethispage{1\baselineskip}`n`n I wanted to say no," `
+	-replace '3:25.','\hspace{\parindent}3:25.' `
+	-replace 'Hey, Walter,','\hspace{\parindent}Hey, Walter,' `
+	-replace 'Lake: Meredith','Lake: Mere\-dith'  `
+	-replace '"Every Sunday, mid-May','``Every Sunday, mid-May' `
+	-replace '"Every Sunday, mid-May','``Every Sunday, mid-May' `
+	-replace '"Stock it with eggs,','``Stock it with eggs,' `
+	-replace '"Swimming was his passion...','``Swimming was his passion...' `
+	-replace '"Even that might not','``Even that might not' `
+	-replace '"The third night,','``The third night,' `
+	-replace '"And yes, God was definitely','``And yes, God was definitely' `
+	-replace '"She slammed the door,','``She slammed the door,' `
+	-replace '"That hospital was like','``That hospital was like' `
+	-replace '"They put me on high','``They put me on high' `
+	-replace 'muttered. "The Fab','muttered. ``The Fab' `
+	-replace "'Dear Robert---","`Dear Robert---" `
+	-replace '"They assumed that','``They assumed that' `
+	-replace '"So I wrote my own letter','``So I wrote my own letter' `
+	-replace '"I mailed, emailed, texted,','``I mailed, emailed, texted,' `
+	-replace '"Last Saturday I happened','``Last Saturday I happened' `
+	-replace '"I was in the woods','``I was in the woods' `
+	-replace '"My senior year in high school,','``My senior year in high school,' `
+	-replace '"I always knew that I was different','``I always knew that I was different' `
+	-replace '"Suddenly my father yelled from','``Suddenly my father yelled from' `
+	-replace '"My father then led us to the garage,','``My father then led us to the garage,' `
+	-replace '"We are born like this;','``We are born like this;' `
+	-replace '"The last year of my marriage,','``The last year of my marriage,' `
+	-replace '"So what? They own us.','``So what? They own us.' `
+	-replace '"Zachary wants the concrete','``Zachary wants the concrete' `
+	-replace '"*She*? the bank','``*She*? the bank' `
+	-replace '"Alexander, sometimes you can be so annoying.','``Alexander, sometimes you can be so annoying.' `
+	-replace '"Twenty-five feet. The','``Twenty-five feet. The' `
+	-replace '"completing her nursing internship','``completing her nursing internship' `
+	-replace '','' `
+	-replace '','' `
+	-replace '','' `
+	-replace '','' `
 )	| Set-Content -Path .\body.tex

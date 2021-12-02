@@ -31,7 +31,7 @@ a pack of cigarettes.
 "What you want for coffee?" I asked.  
 
 Nick lit a cigarette, then handed me a five-dollar bill. "Take a wild
-guess.  And make sure there's four goddamn sugars. Yesterday---\"
+guess.  And make sure there's four goddamn sugars. Yesterday---"
 
 "I put them four in myself."
 
@@ -113,7 +113,7 @@ vinegar that his muffins were marmaladed."
 
 "His words."
 
-"Then *he* should've said something if he was so pissed"  
+"Then *he* should've said something if he was so pissed."  
 
 "He did," Abe said. "He raised quite a stink during coffee. Don't you
 remember?"

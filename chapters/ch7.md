@@ -91,7 +91,7 @@ We approached tepidly, trying to feign emotion---we had to: everyone was
 watching.
 
 My father sat upright, gripping his chest. My mother tossed him his
-shirt, muttering something about his stupidity. He stood up; wiping his
+shirt, muttering about his stupidity. He stood up; wiping his
 face, he tilted his head, shaking water from his ears. He threw his
 shirt over his shoulder, glared at me, then staggered toward the
 cottage.

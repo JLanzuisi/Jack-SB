@@ -35,7 +35,7 @@ I slipped away and did as asked.
 To be honest I don't know where they got this bastard. Zachary should
 have started him on an easy one-story addition rather than this bank
 which was challenging even for a semi-competent supervisor: Originally
-two stories, the bank was expanding 200 hundred feet in back and five
+two stories, the bank was expanding 200 feet in back and five
 floors up in the middle of a busy city block, while remaining open for
 business,
 

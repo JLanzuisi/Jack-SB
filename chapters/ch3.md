@@ -135,7 +135,7 @@ was still talking to the waitress.
 "I bet she doesn't shave her armpits," said the other.
 
 "Why would someone that pretty not shave her legs?" asked the mother.
-"Why would her mother allow it?
+"Why would her mother allow it?"
 
 "Disgusting," the boys said.  
 

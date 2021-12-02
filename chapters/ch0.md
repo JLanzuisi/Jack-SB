@@ -149,7 +149,7 @@ my confession already said without hearing a word. I took a sip of
 champagne, imagining us walking in the rain, my head softly on his
 shoulder. "Alexander...I have a female *and* a male identity." I
 carefully avoided his contorted look of unsure superiority that
-something was wrong, that something was amiss.\" Perhaps in an ideal
+something was wrong, that something was amiss. "Perhaps in an ideal
 world I could be both, affirming each, accepted by my husband for who I
 am. But that's not the world I live in." I was relieved to have finally
 mentioned 'it,' relieved that I had finally broached the subject with a
@@ -216,7 +216,7 @@ hard-wired to like a certain type of woman."
 no choice, something I have to accept and live with." I rose to leave,
 my eyes watering, avoiding his look of complacent contempt. "I hope you
 find someone normal, someone safe and secure, someone you can listen to,
-someone you can share your life with---you deserve that.
+someone you can share your life with---you deserve that."
 
 I bid Alexander good-bye, softly kissing his forehead, and hurriedly
 left.
