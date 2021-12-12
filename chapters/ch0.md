@@ -120,7 +120,7 @@ shiny red nails, I'm sure he knew that something was dreadfully wrong.
 Admiring his self-possession, I apologized and shuffled back to
 Alexander, back to the same booth where my grandfather and I ate dinner
 once a week; feeling like an escaped convict after years on the run,
-finally caught and forced to confess. For those of us, who as Ovid said,
+finally caught and forced to confess. For those of us who as Ovid said,
 'Hover between the sexes,' we live our lives fearing that we'll be found
 out---before we're ready to confess---no matter how hard we cover up
 ---not that we deceive or lie, but it's just too visceral---too

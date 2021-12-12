@@ -5,7 +5,7 @@ that seemed like days, days that seemed like months, not knowing if I
 was male or female. But now I'm thankful to be non-binary, for it has
 given me a creative edge, a humility, a sense of humor, the willingness
 to listen to the rain, and a desire to help the marginalized. My
-previous (nonfiction) book *Rebuild: The Economy, Leadership, and You,*
+previous (nonfiction) book *Rebuild: The Economy, Leadership, and You: A Toolkit for Builders of a Better World,*
 offers a hopeful recipe for tackling our interconnected crises by
 reimagining ourselves, our organizations, and our economies. Just like
 being male and female has enabled me to become a more compassionate

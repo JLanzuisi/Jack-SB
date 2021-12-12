@@ -91,7 +91,7 @@ eyeballing it for straightness. "Make sure them both sides of my English
 muffin are buttered."
 
 "You should be double-checkin' everyone's order," Walter said to me.
-"And take Gary's coffee out of my twenty."
+"And take Gary's out of my twenty."
 
 "I'll need a lot more that," I said, extending my hand.
 

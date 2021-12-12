@@ -63,4 +63,4 @@ miserable."
 and Gary.
 
 "Then, I'll just have to make it in four." I headed toward the aluminum
-ladder, giving everyone a polite over-the-shoulder finger.
+ladder, giving everyone an over-the-shoulder finger.

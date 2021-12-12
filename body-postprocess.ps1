@@ -23,12 +23,11 @@
 	-replace 'parsley---','pars\-ley---' `
 	-replace 'I wanted to say no,',"\enlargethispage{1\baselineskip}`n`n I wanted to say no," `
 	-replace '3:25.','\hspace{\parindent}3:25.' `
-	-replace 'Hey, Walter,','\hspace{\parindent}Hey, Walter,' `
+	-replace '``Hey, Walter,','\hspace*{\parindent}``Hey, Walter,' `
 	-replace 'Lake: Meredith','Lake: Mere\-dith'  `
 	-replace '"Every Sunday, mid-May','``Every Sunday, mid-May' `
 	-replace '"Every Sunday, mid-May','``Every Sunday, mid-May' `
 	-replace '"Stock it with eggs,','``Stock it with eggs,' `
-	-replace '"Swimming was his passion...','``Swimming was his passion...' `
 	-replace '"Even that might not','``Even that might not' `
 	-replace '"The third night,','``The third night,' `
 	-replace '"And yes, God was definitely','``And yes, God was definitely' `
@@ -54,7 +53,7 @@
 	-replace '"Alexander, sometimes you can be so annoying.','``Alexander, sometimes you can be so annoying.' `
 	-replace '"Twenty-five feet. The','``Twenty-five feet. The' `
 	-replace '"completing her nursing internship','``completing her nursing internship' `
-	-replace '','' `
+	-replace 'I was calling at 8.45 PM','I was calling at \liningnums{8.45} PM' `
 	-replace '','' `
 	-replace '','' `
 	-replace '','' `
