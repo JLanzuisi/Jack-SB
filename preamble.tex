@@ -64,18 +64,6 @@
 \setkomafont{author}{\large\itshape}
 \setkomafont{publishers}{\normalsize}
 
-\setcounter{tocdepth}{\parttocdepth} % Only show parts in ToC
-% Style of part entries in ToC
-\RedeclareSectionCommand[
-  tocnumwidth=0pt,
-  tocnumsep=0pt,
-  tocindent=0pt,
-  tocentrynumberformat=\gobbleentrynumber,
-  tocraggedpagenumber=true,
-  toclinefill=\hspace{1em},
-]{part}
-\newcommand*\gobbleentrynumber[1]{\hspace{-1.1em}} % See tocentrynumberformat above
-
 % Hyperlinks
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,allcolors=black}

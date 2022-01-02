@@ -104,7 +104,7 @@ beach, I dove deep, skimming the sandy bottom; then surfacing, I flipped
 over, swimming backwards toward the raft, imagining being far away. The
 water caressed and soothed me, not caring if I was male or female, not
 noticing that my breasts were growing---changing me into someone I
-didn't want to become, that my body was curving, that I never wore
+didn't want to become---that my body was curving, that I never wore
 makeup, that my hair was short, that I was the only girl in sixth grade
 without pierced ears; that deep down inside I wanted to be a boy.
 
