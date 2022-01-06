@@ -1,4 +1,4 @@
-LATEX = latexmk
+LATEX = texfot latexmk
 LATEXFLAGS = -lualatex -output-directory=out
 PANDOC = pandoc
 POWERSHELL = pwsh
@@ -33,7 +33,7 @@ dedication.tex: dedication.md
 
 copy-info.tex: copy-info.md
 	$(PANDOC) $(TEXPANDOCFLAGS) copy-info.md -o copy-info.tex
-	
+
 about-author-acknowledge.tex: about-author-acknowledge.md
 	$(PANDOC) $(TEXPANDOCFLAGS) about-author-acknowledge.md -o about-author-acknowledge.tex
 

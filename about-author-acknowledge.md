@@ -27,7 +27,7 @@ Charles Wilber, Larry Marsh, and Chuck Craypo of the University of Notre
 Dame, for believing in my fiction writing when no one else did.
 
 The 'lunch bunch' at the University of Notre Dame: Carol Wambeke,
-Augusto de la Torre, Marie and Scott van der Linde. We came from
+Augusto de la Torre, Marie and Scott Vander Linde. We came from
 different parts of the world, connected, and became life-long friends.
 
 Tim Crain, the first of my close friends to whom I confessed. We remain
@@ -45,5 +45,5 @@ My good friend and *Rebuild* co-author Graham Boyd. A chance meeting in
 London developed into a great friendship. I'm happy to say that our
 second book is in the works.
 
-And finally, the gang at Evolutesix, especially Johnny who did the
+And finally, the gang at Evolutesix, especially Jhonny who did the
 typesetting, and Niki who designed the cover. Thanks!
